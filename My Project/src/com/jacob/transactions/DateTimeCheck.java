@@ -13,6 +13,9 @@ public class DateTimeCheck {
 	private Date currentDate;
 	private SimpleDateFormat timeFormat;
 
+	/**
+	 * Creates a new instance of CurrentDate
+	 */
 	public DateTimeCheck() {
 		currentDate = new Date();
 

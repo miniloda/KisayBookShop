@@ -464,6 +464,7 @@ public class TransactionsPane extends JFrame {
 				addButton1ActionPerformed(evt);
 			}
 		});
+		changetxt.setEditable(false);
 
 	}
 
@@ -616,20 +617,28 @@ public class TransactionsPane extends JFrame {
 
 	private void completeTransactionButtonActionPerformed(java.awt.event.ActionEvent evt) {
 		clearBill();
-
 		try {
-			studentid = Integer.parseInt(studenttxt.getText());
-		} catch (Exception ex) {
-			studentid = 0;
-		}
-		cash = Float.parseFloat(cashtxt.getText());
-		change = Float.parseFloat(changetxt.getText());
-		AddTransactions.transact(transactionTable, TotalCost, cash, change, studentid);
-		printBill();
-		ModifyTable.clearTable(transactionTable);
 
-		clearFields();
-		clearTransactionFields();
+			try {
+				studentid = Integer.parseInt(studenttxt.getText());
+			} catch (Exception ex) {
+				studentid = 0;
+			}
+			cash = Float.parseFloat(cashtxt.getText());
+			if (cash < totalCost) {
+				JOptionPane.showMessageDialog(null, "Payment must not be lesser than the total cost");
+			} else {
+				change = Float.parseFloat(changetxt.getText());
+				AddTransactions.transact(transactionTable, totalCost, cash, change, studentid);
+				printBill();
+				ModifyTable.clearTable(transactionTable);
+
+				clearFields();
+				clearTransactionFields();
+			}
+		} catch (Exception ex) {
+
+		}
 
 	}
 
@@ -692,10 +701,10 @@ public class TransactionsPane extends JFrame {
 	 */
 	private void calculateTotalCost() {
 		DefaultTableModel d = (DefaultTableModel) transactionTable.getModel();
-		TotalCost = 0;
+		totalCost = 0;
 		for (int i = 0; i < d.getRowCount(); i++) { // Loop through the rows
 
-			TotalCost += (float) d.getValueAt(i, 6);
+			totalCost += (float) d.getValueAt(i, 6);
 		}
 
 	}
@@ -704,9 +713,9 @@ public class TransactionsPane extends JFrame {
 	 * Shows the transaction field
 	 */
 	private void showTransactionField() {
-		totalCosttxt.setText(Float.toString(TotalCost));
+		totalCosttxt.setText(Float.toString(totalCost));
 		try {
-			changetxt.setText(Float.toString(Float.parseFloat(cashtxt.getText()) - TotalCost));
+			changetxt.setText(Float.toString(Float.parseFloat(cashtxt.getText()) - totalCost));
 		} catch (Exception ex) {
 
 		}
@@ -729,10 +738,10 @@ public class TransactionsPane extends JFrame {
 	}
 
 	/**
-	 * Initializes the TotalCost for each transaction
+	 * Initializes the totalCost for each transaction
 	 */
 	private void initTotalCost() {
-		TotalCost = 0;
+		totalCost = 0;
 	}
 
 	/**
@@ -830,7 +839,7 @@ public class TransactionsPane extends JFrame {
 	private DefaultTableModel recordTable;
 	private int selectedRows;
 	private JButton cancelFieldButton;
-	private float TotalCost;
+	private float totalCost;
 	private JSpinner quantitytxt;
 	private String total;
 	private String pay;

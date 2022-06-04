@@ -44,9 +44,9 @@ public class DataManagementPane extends JFrame {
 	 */
 	public DataManagementPane() {
 		initComponents();
-		Connect();
+		connect();
 		table = new ModifyTable();
-		try {
+		try { // updates the table with the updated databases
 			table.table_update(con.prepareStatement("Select * from books"), jTable1, columns);
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
@@ -74,7 +74,7 @@ public class DataManagementPane extends JFrame {
 	 */
 	@SuppressWarnings("unchecked")
 
-	public void Connect() {
+	public void connect() {
 		try {
 			try {
 				Class.forName("com.mysql.jdbc.Driver");
@@ -82,7 +82,7 @@ public class DataManagementPane extends JFrame {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-			con = DriverManager.getConnection("jdbc:mysql://localhost/javacrud", "root", "");
+			con = DriverManager.getConnection("j" + "dbc:mysql://localhost/javacrud", "root", "");
 
 		} catch (SQLException ex) {
 
@@ -357,7 +357,7 @@ public class DataManagementPane extends JFrame {
 	 */
 	private void addButtonActionPerformed(java.awt.event.ActionEvent evt) {
 		// TODO add your handling code here:
-		if (PriceCheck()) {
+		if (priceCheck()) {
 			/*
 			 * we need to make sure that the price field isnt empty before /add the data to
 			 * remove errors and complication
@@ -371,7 +371,7 @@ public class DataManagementPane extends JFrame {
 	 * 
 	 * @return returns true if price field is not empty, false otherwise
 	 */
-	private boolean PriceCheck() {
+	private boolean priceCheck() {
 		try {
 			price = Integer.parseInt(pricetxt.getText());
 			return true;
@@ -527,7 +527,7 @@ public class DataManagementPane extends JFrame {
 	 */
 	private void updateButtonActionPerformed(java.awt.event.ActionEvent evt) {// GEN-FIRST:event_updateButtonActionPerformed
 		// TODO add your handling code here:
-		if (PriceCheck()) {
+		if (priceCheck()) {
 			updateData();
 		}
 

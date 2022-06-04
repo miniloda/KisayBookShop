@@ -18,7 +18,11 @@ import javax.swing.table.DefaultTableModel;
  *
  */
 public class AddTransactions {
-
+	/**
+	 * Generates the DateTime and sets the connection
+	 * 
+	 * @param con The Connection created in the database
+	 */
 	public AddTransactions(Connection con) {
 		this.con = con;
 
@@ -96,6 +100,7 @@ public class AddTransactions {
 			books.append(", ");
 		}
 		booksPurchased = books.toString();
+		// Connect to database
 		try {
 			pst = con.prepareStatement(
 					"insert into `transactions`(`transaction_id`, `student id`, `books_purchased`, `total_cost`, `cash`, `money_change`, `date_purchased`, `time_purchased`) VALUES(?,?,?,?,?,?,?,?)");
