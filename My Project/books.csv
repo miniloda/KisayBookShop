@@ -1,0 +1,1069 @@
+﻿id,bookname,category,genre,author,publisher,yearpublished,isbn,edition,price
+1,Beowulf, fiction,,"Unknown, Seamus Heaney",HarperCollins Publishers,1975,,,4.88
+2,Batman: Year One, fiction,,"Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil",HarperCollins Publishers,1987,,,1.99
+3,Go Set a Watchman, fiction,,Harper Lee,"Amazon Digital Services,  Inc.",2015,,,8.69
+4,When You Are Engulfed in Flames,fiction,,David Sedaris,Hachette Book Group,2008,,,7.5
+5,Daughter of Smoke & Bone, fiction,,Laini Taylor,Penguin Group (USA) LLC,2011,,,7.99
+6,Red Queen, fiction,,Victoria Aveyard,"Amazon Digital Services,  Inc.",2015,,,4.99
+7,The Power of Habit, fiction,,Charles Duhigg,HarperCollins Publishers,2011,,,6.99
+8,Midnight in the Garden of Good and Evil,nonfiction,,John Berendt,Hachette Book Group,1994,,,6.89
+9,Hopeless, fiction,,Colleen Hoover,HarperCollins Publishers,2012,,,6.99
+10,A Little Princess, fiction,,"Frances Hodgson Burnett, Nancy Bond",Random House LLC,1905,,,6.49
+11,The Truth About Forever, fiction,,Sarah Dessen,"Amazon Digital Services,  Inc.",2004,,,4.99
+12,The horse and his boy,fiction,,C.S. Lewis,Penguin Group (USA) LLC,1954,,,5.99
+13,Last Sacrifice , fiction,,Richelle Mead,"Amazon Digital Services,  Inc.",2010,,,0.99
+14,Little House on the Prairie, fiction,,"Laura Ingalls Wilder, Garth Williams",HarperCollins Publishers,1935,,,1.99
+15,The Velveteen Rabbit, fiction,,"Margery Williams Bianco, William   Nicholson",Random House LLC,1922,,,6.54
+16,Zen and the Art of Motorcycle Maintenance, fiction,,Robert M. Pirsig,"Amazon Digital Services,  Inc.",1974,,,4.99
+17,The War of the Worlds, fiction,,"H.G. Wells, Arthur C. Clarke","Amazon Digital Services,  Inc.",1897,,,4.99
+18,Pretty Little Liars, fiction,,Sara Shepard,"Amazon Digital Services,  Inc.",2006,,,4.99
+19,Corduroy, fiction,,Don Freeman,Simon and Schuster Digital Sales Inc,1948,,,1.99
+20,The Omnivore's Dilemma, fiction,,Michael Pollan,"Amazon Digital Services,  Inc.",2006,,,0.99
+21,Life After Life, fiction,,Kate Atkinson,"Amazon Digital Services,  Inc.",2013,,,3.99
+22,The Rescue, fiction,,Nicholas Sparks,"Amazon Digital Services,  Inc.",2000,,,2.99
+23,Needful Things, fiction,,Stephen King,"Amazon Digital Services,  Inc.",1991,,,0.99
+24,Voyager, fiction,,Diana Gabaldon,"Amazon Digital Services,  Inc.",1993,,,2.99
+25,Cujo, fiction,,Stephen King,"Amazon Digital Services,  Inc.",1981,,,2.99
+26,The Virgin Suicides, fiction,,Jeffrey Eugenides,Penguin Group (USA) LLC,1993,,,10.91
+27,Dead to the World, fiction,,Charlaine Harris,"Amazon Digital Services,  Inc.",2004,,,0.99
+28,Tess of the d'Urbervilles: A Pure Woman Faithfully Presented,nonfiction,,"Thomas Hardy, Tim Dolin, Margaret R. Higonnet",Hachette Book Group,1891,,,3.99
+29,Madame Bovary, fiction,,"Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall","Amazon Digital Services,  Inc.",1856,,,3.99
+30,The Phantom Tollbooth, fiction,,"Norton Juster, Jules Feiffer","Amazon Digital Services,  Inc.",1961,,,1.99
+31,The Way of Kings, fiction,,Brandon Sanderson,"Amazon Digital Services,  Inc.",2010,,,0.99
+32,Club Dead, fiction,,Charlaine Harris,HarperCollins Publishers,2003,,,5.99
+33,It's Kind of a Funny Story,nonfiction,,Ned Vizzini,HarperCollins Publishers,2006,,,0.99
+34,After You, fiction,,Jojo Moyes,"Amazon Digital Services,  Inc.",2015,,,0.99
+35,The Language of Flowers, fiction,,Vanessa Diffenbaugh,"Amazon Digital Services,  Inc.",2011,,,0.99
+36,Batman: The Dark Knight Returns, fiction,,"Frank Miller, Klaus Janson, Lynn Varley","Amazon Digital Services,  Inc.",1986,,,0.99
+37,The Angel Experiment, fiction,,James Patterson,"Amazon Digital Services,  Inc.",2005,,,0.99
+38,High Fidelity, fiction,,Nick Hornby,Random House LLC,1995,,,10.65
+39,The Guardian, fiction,,Nicholas Sparks,"Amazon Digital Services,  Inc.",2003,,,0.99
+40,Oryx and Crake, fiction,,Margaret Atwood,"Amazon Digital Services,  Inc.",2003,,,3.99
+41,"Men Are from Mars, Women Are from Venus Book of Days: 365 Inspirations to Enrich Your Relationships", fiction,,John Gray,"Amazon Digital Services,  Inc.",1998,,,1.99
+42,Kitchen Confidential: Adventures in the Culinary Underbelly, fiction,,Anthony Bourdain,HarperCollins Publishers,2000,,,5.99
+43,Timeline, fiction,,Michael Crichton,"Amazon Digital Services,  Inc.",1999,,,6.99
+44,Candide, fiction,,Voltaire,"Amazon Digital Services,  Inc.",1759,,,4.99
+45,Tuck Everlasting,nonfiction,,Natalie Babbitt,"Amazon Digital Services,  Inc.",1975,,,1.99
+46,Christine,nonfiction,,"Stephen King, Marie Milpois","Amazon Digital Services,  Inc.",1983,,,0.99
+47,Are You My Mother?, fiction,,P.D. Eastman,Penguin Group (USA) LLC,1960,,,5.99
+48,The Story of Art, fiction,,E.H. Gombrich,Hachette Book Group,1950,,,8.59
+49,Scarlet, fiction,,Marissa Meyer,"Amazon Digital Services,  Inc.",2013,,,0.99
+50,"Rich Dad , Poor Dad", fiction,,Robert T. Kiyosaki,Random House LLC,1997,,,0.99
+51,Silence , fiction,,Becca Fitzpatrick,"Amazon Digital Services,  Inc.",2011,,,4.99
+52,The Magicians, fiction,,Lev Grossman,Macmillan,2009,,,0.99
+53,A Great and Terrible Beauty, fiction,,Libba Bray,Penguin Group (USA) LLC,2003,,,2.99
+54,Everything Is Illuminated, fiction,,Jonathan Safran Foer,"Amazon Digital Services,  Inc.",2002,,,0.99
+55,The Bourne Supremacy, fiction,,Robert Ludlum,Penguin Group (USA) LLC,1986,,,10.91
+56,Easy, fiction,,Tammara Webber,"Amazon Digital Services,  Inc.",2012,,,0.99
+57,David Copperfield, fiction,,"Charles Dickens, Jeremy Tambling",Hachette Book Group,1849,,,11.39
+58,The Absolutely True Diary of a Part-Time Indian, fiction,,"Sherman Alexie, Ellen Forney",Random House LLC,2007,,,6.49
+59,ÐœÐ°ÑÑ‚ÐµÑ€ Ð¸ ÐœÐ°Ñ€Ð³Ð°Ñ€Ð¸Ñ‚Ð°, fiction,,"Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer","Amazon Digital Services,  Inc.",1967,,,3.99
+60,A Wizard of Earthsea, fiction,,Ursula K. Le Guin,"Amazon Digital Services,  Inc.",1968,,,3
+61,Because of Winn-Dixie, fiction,,"Kate DiCamillo, Chris Sheban","Amazon Digital Services,  Inc.",2000,,,0.99
+62,A Separate Peace, fiction,,John Knowles,"Amazon Digital Services,  Inc.",1959,,,3.89
+63,The Rainmaker, fiction,,John Grisham,"Amazon Digital Services,  Inc.",1995,,,7.99
+64,Don Quijote de La Mancha, fiction,,"Miguel de Cervantes Saavedra, Roberto GonzÃ¡lez EchevarrÃ­a, John Rutherford",Hachette Book Group,1605,,,8.99
+65,Assassin's Apprentice, fiction,,Robin Hobb,"Amazon Digital Services,  Inc.",1995,,,1.99
+66,The Restaurant at the End of the Universe, fiction,,Douglas Adams,Penguin Group (USA) LLC,1980,,,7.99
+67,Torment, fiction,,Lauren Kate,"Amazon Digital Services,  Inc.",2010,,,3.99
+68,The Tale of Peter Rabbit, fiction,,Beatrix Potter,Penguin Group (USA) LLC,1901,,,6.99
+69,The Silver Chair, fiction,,"C.S. Lewis, Pauline Baynes",Hachette Book Group,1953,,,3.79
+70,The Hero of Ages,nonfiction,,Brandon Sanderson,"Amazon Digital Services,  Inc.",2008,,,4.21
+71,"Girl, Interrupted", fiction,,Susanna Kaysen,Hachette Book Group,1993,,,1.99
+72,"Are You There, Vodka? It's Me, Chelsea", fiction,,Chelsea Handler,Hachette Book Group,2007,,,3.99
+73,Jonathan Livingston Seagull, fiction,,"Richard Bach, Russell Munson","Amazon Digital Services,  Inc.",1970,,,4.99
+74,City of Heavenly Fire, fiction,,Cassandra Clare,"Amazon Digital Services,  Inc.",2014,,,4.99
+75,Love You Forever, fiction,,"Robert Munsch, Sheila McGraw","Amazon Digital Services,  Inc.",1986,,,0.99
+76,Cell, fiction,,Stephen King,HarperCollins Publishers,2006,,,4.54
+77,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics, fiction,,Daniel James Brown,Hachette Book Group,2013,,,6.49
+78,The Silmarillion, fiction,,"J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith",Random House LLC,1977,,,4.99
+79,The Drawing of the Three,nonfiction,,Stephen King,HarperCollins Publishers,1987,,,1.99
+80,The Forgotten Garden, fiction,,Kate Morton,"Amazon Digital Services,  Inc.",2008,,,3.99
+81,Der ProzeÃŸ, fiction,,"Franz Kafka, Edwin Muir, Willa Muir, Max Brod","Amazon Digital Services,  Inc.",1925,,,0.99
+82,This Lullaby, fiction,,Sarah Dessen,HarperCollins Publishers,2002,,,1.99
+83,Plain Truth, fiction,,Jodi Picoult,"Amazon Digital Services,  Inc.",2000,,,0.99
+84,Orange Is the New Black: My Year in a Women's Prison,fiction,,Piper Kerman,"Amazon Digital Services,  Inc.",2010,,,1.99
+85,The Hound of the Baskervilles, fiction,,"Arthur Conan Doyle, Anne Perry",Macmillan,1902,,,1.99
+86,"Thinking, Fast and Slow", fiction,,Daniel Kahneman,"Amazon Digital Services,  Inc.",2011,,,0.99
+87,The Mists of Avalon, fiction,,Marion Zimmer Bradley,"Amazon Digital Services,  Inc.",1982,,,0.99
+88,"Are You There God? It's Me, Margaret", fiction,,Judy Blume,"Amazon Digital Services,  Inc.",1970,,,0.99
+89,Nights in Rodanthe, fiction,,Nicholas Sparks,"Amazon Digital Services,  Inc.",2002,,,4.99
+90,Mr. Mercedes, fiction,,Stephen King,Macmillan,2014,,,1.99
+91,All Together Dead, fiction,,Charlaine Harris,Random House LLC,2007,,,6.49
+92,Midwives, fiction,,Chris Bohjalian,Random House LLC,1997,,,6.49
+93,The Polar Express,nonfiction,,Chris Van Allsburg,"Amazon Digital Services,  Inc.",1985,,,0.99
+94,The True Story of the Three Little Pigs, fiction,,"Jon Scieszka, Lane Smith","Amazon Digital Services,  Inc.",1989,,,0.99
+95,Patriot Games, fiction,,Tom Clancy,"Amazon Digital Services,  Inc.",1987,,,5.99
+96,Veronika decide morrer, fiction,,"Paulo Coelho, Margaret Jull Costa",Penguin Group (USA) LLC,1998,,,6.83
+97,"Lean In: Women, Work, and the Will to Lead", fiction,,"Sheryl Sandberg, Nell Scovell","Amazon Digital Services,  Inc.",2013,,,0.99
+98,Dead as a Doornail , fiction,,Charlaine Harris,Penguin Group (USA) LLC,2005,,,5.12
+99,"Shatter Me (Shatter Me, #1)",fiction,,Tahereh Mafi,"Amazon Digital Services,  Inc.",2011,,,2.24
+100,Starship Troopers, fiction,,Robert A. Heinlein,Hachette Book Group,1959,,,7.5
+101,I've Got Your Number, fiction,,Sophie Kinsella,"Amazon Digital Services,  Inc.",2011,,,0.99
+102,Sofies Verden, fiction,,"Jostein Gaarder, Paulette MÃ¸ller",Penguin Group (USA) LLC,1991,,,10.65
+103,The Martian Chronicles, fiction,,Ray Bradbury,"Amazon Digital Services,  Inc.",1950,,,1.99
+104,A Visit From the Goon Squad, fiction,,Jennifer Egan,Macmillan,2010,,,4.99
+105,Heidi, fiction,,"Johanna Spyri, Angelo  Rinaldi, Beverly Cleary",Penguin Group (USA) LLC,1880,,,3.99
+106,Prey, fiction,,Michael Crichton,"Amazon Digital Services,  Inc.",2002,,,1.99
+107,The Last Battle, fiction,,C.S. Lewis,"Amazon Digital Services,  Inc.",1956,,,6.5
+108,World Without End, fiction,,Ken Follett,Random House LLC,2007,,,0.99
+109,Chosen: A House of Night Novel,fiction,,"P.C. Cast, Kristin Cast","Amazon Digital Services,  Inc.",2008,,,8.48
+110,Slammed, fiction,,Colleen Hoover,"Amazon Digital Services,  Inc.",2012,,,0.99
+111,"Beastly (Beastly, #1, Kendra Chronicles, #1)", fiction,,Alex Flinn,"Amazon Digital Services,  Inc.",2007,,,0.99
+112,Tales of Caunterbury, fiction,,"Geoffrey Chaucer, Nevill Coghill","Amazon Digital Services,  Inc.",1390,,,0.99
+113,Baby Proof,nonfiction,,Emily Giffin,Macmillan,2006,,,6.49
+114,Inheritance,nonfiction,,Christopher Paolini,Random House LLC,2011,,,11.99
+115,ã„ã¡ãã‚…ã†ã¯ã¡ã‚ˆã‚“ [Ichi-KyÅ«-Hachi-Yon], fiction,,"Haruki Murakami, Jay Rubin, Philip Gabriel","Amazon Digital Services,  Inc.",2009,,,2.99
+116,Uncle Tom's Cabin or Life Among the Lowly,fiction,,Harriet Beecher Stowe,HarperCollins Publishers,1852,,,1.99
+117,Le FantÃ´me de l'OpÃ©ra, fiction,,"Gaston Leroux, Alexander Teixeira de Mattos","Amazon Digital Services,  Inc.",1909,,,3.99
+118,"Definitely Dead (Sookie Stackhouse, #6)", fiction,,Charlaine Harris,Simon and Schuster Digital Sales Inc,2006,,,7.5
+119,Ensaio Sobre a Cegueira, fiction,,"JosÃ© Saramago, Giovanni Pontiero","Amazon Digital Services,  Inc.",1995,,,3.99
+120,Freedom, fiction,,Jonathan Franzen,Random House LLC,2010,,,7.99
+121,Crossed, fiction,,Ally Condie,"Amazon Digital Services,  Inc.",2011,,,0.99
+122,"I'd Tell You I Love You, But Then I'd Have to Kill You", fiction,,Ally Carter,Hachette Book Group,2006,,,11.99
+123,The White Tiger, fiction,,Aravind Adiga,Random House LLC,2008,,,7.99
+124,The Corrections, fiction,,Jonathan Franzen,"Amazon Digital Services,  Inc.",2001,,,0.99
+125,Dreams from My Father,nonfiction,,Barack Obama,HarperCollins Publishers,1995,,,1.99
+126,Congo,nonfiction,,Michael Crichton,Random House LLC,1980,,,6.99
+127,"Alexander and the Terrible, Horrible, No Good, Very Bad Day", fiction,,"Judith Viorst, Ray Cruz","Amazon Digital Services,  Inc.",1972,,,2.99
+128,Interpreter of Maladies, fiction,,Jhumpa Lahiri,Penguin Group (USA) LLC,1999,,,10.65
+129,A People's History of the United States: 1492 to Present , fiction,,Howard Zinn,"Amazon Digital Services,  Inc.",1980,,,3.99
+130,Breakfast at Tiffany's, fiction,,Truman Capote,"Amazon Digital Services,  Inc.",1958,,,0.99
+131,The Passage, fiction,,Justin Cronin,"Amazon Digital Services,  Inc.",2010,,,3.99
+132,Anansi Boys,nonfiction,,Neil Gaiman,"Amazon Digital Services,  Inc.",2005,,,1.99
+133,Along for the Ride, fiction,,Sarah Dessen,Penguin Group (USA) LLC,2009,,,11.99
+134,Everything I Never Told You, fiction,,Celeste Ng,"Amazon Digital Services,  Inc.",2014,,,3.99
+135,La casa de los espÃ­ritus, fiction,,"Isabel Allende, Magda Bogin",Simon and Schuster Digital Sales Inc,1982,,,10.67
+136,The Dead Zone, fiction,,Stephen King,HarperCollins Publishers,1979,,,1.99
+137,The Mysterious Affair at Styles, fiction,,"Agatha Christie, Î¡Î¿Î¶Î¯Ï„Î± Î£ÏŽÎºÎ¿Ï…","Amazon Digital Services,  Inc.",1920,,,3.99
+138,Murder in the Calais Coach, fiction,,Agatha Christie,"Amazon Digital Services,  Inc.",1934,,,4.99
+139,Americanah, fiction,,Chimamanda Ngozi Adichie,"Amazon Digital Services,  Inc.",2013,,,3.99
+140,Suzanne's Diary for Nicholas, fiction,,James Patterson,Random House LLC,2001,,,4.99
+141,Firestarter, fiction,,Stephen King,Macmillan,1980,,,3.99
+142,Entwined with You, fiction,,Sylvia Day,"Amazon Digital Services,  Inc.",2013,,,0.99
+143,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen", fiction,,Christopher McDougall,"Amazon Digital Services,  Inc.",2009,,,4.99
+144,The Storied Life of A.J. Fikry, fiction,,Gabrielle Zevin,Random House LLC,2014,,,7.51
+145,Mad About Madeline, fiction,,Ludwig Bemelmans,"Amazon Digital Services,  Inc.",1939,,,0.99
+146,Think and Grow Rich, fiction,,Napoleon Hill,"Amazon Digital Services,  Inc.",1937,,,0.99
+147,Little House In The Big Woods, fiction,,"Laura Ingalls Wilder, Garth Williams","Amazon Digital Services,  Inc.",1932,,,0.99
+148,Jonathan Strange & Mr Norrell, fiction,,Susanna Clarke,Hachette Book Group,2004,,,7.99
+149,A Bend in the Road, fiction,,Nicholas Sparks,HarperCollins Publishers,2001,,,1.99
+150,The House of Hades,nonfiction,,Rick Riordan,"Amazon Digital Services,  Inc.",2013,,,0.99
+151,Gone, fiction,,Michael  Grant,"Amazon Digital Services,  Inc.",2008,,,5.49
+152,The Wedding, fiction,,Nicholas Sparks,"Amazon Digital Services,  Inc.",2003,,,0.99
+153,1776, fiction,,David McCullough,Random House LLC,2005,,,11.84
+154,Under the Banner of Heaven: A Story of Violent Faith, fiction,,Jon Krakauer,"Amazon Digital Services,  Inc.",2003,,,0.99
+155,Beautiful Ruins, fiction,,Jess Walter,Random House LLC,2012,,,14.99
+156,The Audacity of Hope: Thoughts on Reclaiming the American Dream, fiction,,Barack Obama,"Amazon Digital Services,  Inc.",2006,,,4.99
+157,On Writing: A Memoir of the Craft, fiction,,Stephen King,"Amazon Digital Services,  Inc.",1999,,,2.99
+158,Firefly Lane, fiction,,Kristin Hannah,"Amazon Digital Services,  Inc.",2008,,,4.99
+159,Sphere, fiction,,Michael Crichton,Random House LLC,1987,,,6.99
+160,Love the One You're With, fiction,,Emily Giffin,Simon and Schuster Digital Sales Inc,2008,,,8.99
+161,The Silkworm, fiction,,"Robert Galbraith, J.K. Rowling","Amazon Digital Services,  Inc.",2014,,,0.99
+162,The Vampire Lestat, fiction,,Anne Rice,"Amazon Digital Services,  Inc.",1985,,,0.99
+163,State of Wonder, fiction,,Ann Patchett,"Amazon Digital Services,  Inc.",2011,,,2
+164,The Silver Linings Playbook, fiction,,Matthew Quick,"Amazon Digital Services,  Inc.",2008,,,0.99
+165,Vingt Mille Lieues Sous les Mers, fiction,,"Jules Verne, Anthony Bonner","Amazon Digital Services,  Inc.",1869,,,5.95
+166,The Constant Princess, fiction,,Philippa Gregory,Penguin Group (USA) LLC,2005,,,5.99
+167,Mrs Dalloway, fiction,,"Virginia Woolf, Maureen Howard","Amazon Digital Services,  Inc.",1925,,,1.99
+168,HundraÃ¥ringen som klev ut genom fÃ¶nstret och fÃ¶rsvann, fiction,,"Jonas Jonasson, Rod Bradbury",Macmillan,2009,,,8.89
+169,Bag of Bones, fiction,,Stephen King,"Amazon Digital Services,  Inc.",1998,,,0.99
+170,The Cider House Rules, fiction,,John Irving,"Amazon Digital Services,  Inc.",1985,,,1.99
+171,Thinner, fiction,,"Richard Bachman, Stephen King","Amazon Digital Services,  Inc.",1984,,,2.99
+172,Le tour du monde en quatre-vingts jours, fiction,,"Jules Verne, Michael Glencross, Brian W. Aldiss",Penguin Group (USA) LLC,1872,,,7.99
+173,Walk Two Moons,nonfiction,,Sharon Creech,"Amazon Digital Services,  Inc.",1994,,,0.99
+174,Onze minutos, fiction,,"Paulo Coelho, Margaret Jull Costa","Amazon Digital Services,  Inc.",2003,,,0.99
+175,Nine Stories, fiction,,J.D. Salinger,"Amazon Digital Services,  Inc.",1953,,,3.99
+176,"Julie & Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen",nonfiction,,Julie Powell,Random House LLC,2005,,,2.99
+177,Unwind, fiction,,Neal Shusterman,Macmillan,2007,,,0.99
+178,"Drums of Autumn (Outlander, #4)",nonfiction,,Diana Gabaldon,"Amazon Digital Services,  Inc.",1996,,,1.99
+179,Prodigy, fiction,,Marie Lu,"Amazon Digital Services,  Inc.",2013,,,2.99
+180,The Tragedie of King Lear, fiction,,William Shakespeare,"Amazon Digital Services,  Inc.",1603,,,3.99
+181,Death of a Salesman, fiction,,Arthur Miller,Penguin Group (USA) LLC,1949,,,10.91
+182,The Choice, fiction,,Nicholas Sparks,"Amazon Digital Services,  Inc.",2007,,,2.99
+183,The Sound and the Fury, fiction,,William Faulkner,Hachette Book Group,1929,,,4.99
+184,A New Earth: Awakening to Your Life's Purpose, fiction,,Eckhart Tolle,"Amazon Digital Services,  Inc.",2005,,,0.99
+185,BLEACHâ€•ãƒ–ãƒªãƒ¼ãƒâ€•ã€€1,fiction,,Tite Kubo,Penguin Group (USA) LLC,2002,,,5.34
+186,The Shadow Rising ,nonfiction,,Robert Jordan,HarperCollins Publishing,1992,,,4.26
+187,Shantaram, fiction,,Gregory David Roberts,"Amazon Digital Services,  Inc.",2003,,,0.99
+188,From Dead to Worse, fiction,,Charlaine Harris,"Amazon Digital Services,  Inc.",2008,,,0.99
+189,The Waste Lands, fiction,,"Stephen King, Ned Dameron","Amazon Digital Services,  Inc.",1991,,,2.99
+190,The Bone Collector, fiction,,Jeffery Deaver,Random House LLC,1997,,,10.99
+191,Der Vorleser, fiction,,"Bernhard Schlink, Carol Brown Janeway","Amazon Digital Services,  Inc.",1995,,,2.99
+192,"Brown Bear, Brown Bear, What Do You See?", fiction,,"Bill Martin Jr., Eric Carle",Hachette Book Group,1967,,,4.99
+193,Hyperion, fiction,,Dan Simmons,"Amazon Digital Services,  Inc.",1989,,,0.99
+194,The Pearl of the World, fiction,,John Steinbeck,"Amazon Digital Services,  Inc.",1947,,,0.99
+195,The Exorcist, fiction,,William Peter Blatty,"Amazon Digital Services,  Inc.",1971,,,2.99
+196,The Short Second Life of Bree Tanner, fiction,,Stephenie Meyer,"Amazon Digital Services,  Inc.",2009,,,0.99
+197,Snow Falling on Cedars, fiction,,David Guterson,"Amazon Digital Services,  Inc.",1994,,,2.99
+198,Roots, fiction,,Alex Haley,Macmillan,1976,,,0.99
+199,Batman: The Killing Joke , fiction,,"Alan Moore, Brian Bolland, Tim Sale",Random House LLC,1988,,,0.99
+200,Invisible Man, fiction,,Ralph Ellison,"Amazon Digital Services,  Inc.",1952,,,0.99
+201,A Long Way Gone. Memoirs of a Boy Soldier, fiction,,Ishmael Beah,"Amazon Digital Services,  Inc.",2007,,,7.99
+202,Mrs. Frisby and the Rats of NIMH, fiction,,Robert C. O'Brien,"Amazon Digital Services,  Inc.",1971,,,3.99
+203,Different Seasons, fiction,,Stephen King,Simon and Schuster Digital Sales Inc,1982,,,10.99
+204,The Little House Collection, fiction,,"Laura Ingalls Wilder, Garth Williams",Random House LLC,1953,,,11.47
+205,The Girls' Guide to Hunting and Fishing,nonfiction,,Melissa Bank,"Amazon Digital Services,  Inc.",1998,,,0.99
+206,Wool Omnibus, fiction,,Hugh Howey,Penguin Group (USA) LLC,2012,,,4.99
+207,"Lamb: The Gospel According to Biff, Christ's Childhood Pal", fiction,,Christopher Moore,Random House LLC,2002,,,10.65
+208,The Power of Now, fiction,,Eckhart Tolle,Penguin Group (USA) LLC,1997,,,10.65
+209,Let's Pretend This Never Happened (A Mostly True Memoir), fiction,,Jenny  Lawson,"Amazon Digital Services,  Inc.",2012,,,0.99
+210,The Lies of Locke Lamora, fiction,,Scott Lynch,Simon and Schuster Digital Sales Inc,2006,,,2.99
+211,Sabriel, fiction,,Garth Nix,Random House LLC,1995,,,19.98
+212,Dead and Gone, fiction,,Charlaine Harris,Random House LLC,2009,,,4.99
+213,The Storyteller, fiction,,Jodi Picoult,"Amazon Digital Services,  Inc.",2013,,,0.99
+214,Obsidian, fiction,,Jennifer L. Armentrout,Penguin Group (USA) LLC,2011,,,11.99
+215,"Life, the Universe and Everything", fiction,,Douglas Adams,Hachette Book Group,1982,,,5.99
+216,Crown of Midnight, fiction,,Sarah J. Maas,"Amazon Digital Services,  Inc.",2013,,,0.99
+217,"Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life", fiction,,Bryan Lee O'Malley,Random House LLC,2004,,,0.99
+218,Half Broke Horses: A True Life Novel, fiction,,Jeannette Walls,Penguin Group (USA) LLC,2008,,,11.99
+219,Mort, fiction,,Terry Pratchett,"Amazon Digital Services,  Inc.",1987,,,8.97
+220,"The Iron King (The Iron Fey, #1) ", fiction,,Julie Kagawa,Macmillan,2010,,,0.99
+221,Lonesome Dove, fiction,,Larry McMurtry,"Amazon Digital Services,  Inc.",1985,,,3.99
+222,Stiff: The Curious Lives of Human Cadavers,nonfiction,,Mary Roach,Random House LLC,2003,,,10.65
+223,Bloodlines, fiction,,Richelle Mead,Macmillan,2011,,,0.99
+224,Ender's Shadow,nonfiction,,Orson Scott Card,"Amazon Digital Services,  Inc.",1998,,,0.99
+225,Twenties Girl, fiction,,Sophie Kinsella,Random House LLC,2009,,,4.99
+226,Schindler's Ark, fiction,,Thomas Keneally,"Amazon Digital Services,  Inc.",1982,,,6.19
+227,The Bluest Eye, fiction,,Toni Morrison,"Amazon Digital Services,  Inc.",1970,,,2.99
+228,The White Queen, fiction,,Philippa Gregory,"Amazon Digital Services,  Inc.",2009,,,4.13
+229,The Autobiography of Malcolm X,nonfiction,,"Malcolm X, Alex Haley",Random House LLC,1965,,,4.99
+230,Preludes & Nocturnes,nonfiction,,"Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen  Berger","Amazon Digital Services,  Inc.",1989,,,5.56
+231,Seabiscuit, fiction,,Laura Hillenbrand,HarperCollins Publishers,1999,,,2.5
+232,Shutter Island, fiction,,Dennis Lehane,Penguin Group (USA) LLC,2003,,,10.65
+233,The Complete Sherlock Holmes, fiction,,Arthur Conan Doyle,Penguin Group (USA) LLC,1894,,,7.99
+234,The Tragedy of Julius Caesar, fiction,,"William Shakespeare, Roma Gill","Amazon Digital Services,  Inc.",1599,,,0.99
+235,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin", fiction,,Erik Larson,"Amazon Digital Services,  Inc.",2011,,,0.99
+236,Î Î¿Î»Î¹Ï„ÎµÎ¯Î±, fiction,,"Plato, Desmond Lee","Amazon Digital Services,  Inc.",-380,,,0.99
+237,The Taming of the Shrew,nonfiction,,William Shakespeare,Hachette Book Group,1593,,,6.99
+238,Cress,nonfiction,,Marissa Meyer,Macmillan,2014,,,2.99
+239,Just Kids, fiction,,Patti Smith,Random House LLC,2010,,,1.99
+240,Jemima J, fiction,,Jane Green,"Amazon Digital Services,  Inc.",2001,,,1.99
+241,Notre-Dame de Paris,nonfiction,,"Victor Hugo, Walter J. Cobb","Amazon Digital Services,  Inc.",1831,,,7.91
+242,A Fine Balance, fiction,,Rohinton Mistry,Simon and Schuster Digital Sales Inc,1996,,,2.99
+243,Calvin and Hobbes,nonfiction,,"Bill Watterson, G.B. Trudeau",Penguin Group (USA) LLC,1987,,,4.99
+244,Specials, fiction,,Scott Westerfeld,"Amazon Digital Services,  Inc.",2006,,,2.99
+245,The Awakening, fiction,,Kate Chopin,"Amazon Digital Services,  Inc.",1899,,,0.99
+246,Hunted, fiction,,"P.C. Cast, Kristin Cast",Random House LLC,2009,,,4.99
+247,For One More Day, fiction,,Mitch Albom,"Amazon Digital Services,  Inc.",2006,,,3.99
+248,Clear and Present Danger, fiction,,Tom Clancy,Hachette Book Group,1989,,,2.99
+249,Falling Up, fiction,,Shel Silverstein,"Amazon Digital Services,  Inc.",1996,,,0.99
+250,Sh*t My Dad Says,nonfiction,,Justin Halpern,Hachette Book Group,2010,,,7.5
+251,Trainspotting, fiction,,"Irvine Welsh, Eric Lindor Fall",Random House LLC,1993,,,2.99
+252,Foundation and Empire, fiction,,Isaac Asimov,"Amazon Digital Services,  Inc.",1952,,,2.99
+253,"The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book", fiction,,Miguel Ruiz,Penguin Group (USA) LLC,1997,,,11.99
+254,House Rules,nonfiction,,Jodi Picoult,HarperCollins Publishers,2010,,,11.19
+255,BrÃ¼der Grimm: Kinder- und HausmÃ¤rchen, fiction,,"Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern","Amazon Digital Services,  Inc.",1812,,,4.99
+256,From the Mixed-Up Files of Mrs. Basil E. Frankweiler, fiction,,E.L. Konigsburg,"Amazon Digital Services,  Inc.",1967,,,2.99
+257,Doctor Sleep, fiction,,Stephen King,"Amazon Digital Services,  Inc.",2013,,,0.99
+258,About a Boy, fiction,,Nick Hornby,Penguin Group (USA) LLC,1998,,,2.99
+259,On Dublin Street,nonfiction,,Samantha Young,Random House LLC,2012,,,10.91
+260,Crazy Love: Overwhelmed by a Relentless God, fiction,,"Francis Chan, Danae Yankoski, Chris Tomlin",Macmillan,2008,,,2.99
+261,"One Fish, Two Fish, Red Fish, Blue Fish",nonfiction,,Dr. Seuss,Simon and Schuster Digital Sales Inc,1960,,,1.99
+262,Watchers, fiction,,Dean Koontz,"Amazon Digital Services,  Inc.",1987,,,2.99
+263,The Story of My Life,nonfiction,,Helen Keller,"Amazon Digital Services,  Inc.",1902,,,0.99
+264,This Is Where I Leave You, fiction,,Jonathan Tropper,"Amazon Digital Services,  Inc.",2009,,,0.99
+265,Abraham Lincoln: Vampire Hunter, fiction,,Seth Grahame-Smith,"Amazon Digital Services,  Inc.",2010,,,0.99
+266,ãƒ•ãƒ«ãƒ¼ãƒ„ãƒã‚¹ã‚±ãƒƒãƒˆ 1,nonfiction,,"Natsuki Takaya, Alethea Nibley, Athena Nibley",Simon and Schuster Digital Sales Inc,1999,,,2.99
+267,The Tempest, fiction,,William Shakespeare,"Amazon Digital Services,  Inc.",1623,,,2.99
+268,Burned: A House of Night Novel, fiction,,"P.C. Cast, Kristin Cast","Amazon Digital Services,  Inc.",2010,,,2.99
+269,Wizard and Glass,fiction,,"Stephen King, Dave McKean",Simon and Schuster Digital Sales Inc,1997,,,2.99
+270,The Circle, fiction,,Dave Eggers,Penguin Group (USA) LLC,2013,,,11.39
+271,The Invention of Hugo Cabret, fiction,,Brian Selznick,"Amazon Digital Services,  Inc.",2007,,,4.99
+272,Brave New World/Brave New World Revisited, fiction,,"Aldous Huxley, Christopher Hitchens","Amazon Digital Services,  Inc.",1932,,,4.99
+273,æ¡œè˜­é«˜æ ¡ãƒ›ã‚¹ãƒˆéƒ¨ 1, fiction,,Bisco Hatori,HarperCollins Publishers,2003,,,1.99
+274,The Good Girl, fiction,,Mary Kubica,Random House LLC,2014,,,7.99
+275,"Fallen Too Far (Too Far, #1)", fiction,,Abbi Glines,Penguin Group (USA) LLC,2012,,,8.82
+276,Landline, fiction,,Rainbow Rowell,"Amazon Digital Services,  Inc.",2014,,,3.99
+277,Tempted,fiction,,"P.C. Cast, Kristin Cast",HarperCollins Publishers,2008,,,8.49
+278,No Country for Old Men, fiction,,Cormac McCarthy,Simon and Schuster Digital Sales Inc,2005,,,4.99
+279,Wolf Hall, fiction,,Hilary Mantel,Penguin Group (USA) LLC,2009,,,7.69
+280,Howl's Moving Castle, fiction,,Diana Wynne Jones,"Amazon Digital Services,  Inc.",1986,,,2.99
+281,Dreamcatcher, fiction,,"Stephen King, William Olivier Desmond","Amazon Digital Services,  Inc.",2001,,,4.99
+282,Walden; or Life in the Woods,nonfiction,,Henry David Thoreau,Random House LLC,1854,,,6.49
+283,The Remains of the Day,nonfiction,,Kazuo Ishiguro,Random House LLC,1989,,,5.99
+284,The Best of Me, fiction,,Nicholas Sparks,"Amazon Digital Services,  Inc.",2010,,,0.99
+285,The Sense of an Ending, fiction,,Julian Barnes,"Amazon Digital Services,  Inc.",2011,,,0.99
+286,A is for Alibi, fiction,,Sue Grafton,"Amazon Digital Services,  Inc.",1982,,,1.99
+287,ÎŸá¼°Î´Î¯Ï€Î¿Ï…Ï‚ Î¤ÏÏÎ±Î½Î½Î¿Ï‚, fiction,,"Sophocles, J.E. Thomas",Hachette Book Group,-430,,,7.99
+288,Shanghai Girls,nonfiction,,Lisa See,Penguin Group (USA) LLC,2009,,,6.99
+289,The Wind in the Willows, fiction,,"Kenneth Grahame, Gillian Avery",Penguin Group (USA) LLC,1908,,,33.86
+290,To All the Boys I've Loved Before,nonfiction,,Jenny Han,"Amazon Digital Services,  Inc.",2014,,,1.99
+291,Persepolis, fiction,,"Marjane Satrapi, Mattias Ripa",Random House LLC,2000,,,4.99
+292,A Room with a View, fiction,,E.M. Forster,"Amazon Digital Services,  Inc.",1908,,,2.99
+293,The DUFF: Designated Ugly Fat Friend, fiction,,Kody Keplinger,"Amazon Digital Services,  Inc.",2010,,,3.99
+294,Lock and Key,nonfiction,,Sarah Dessen,"Amazon Digital Services,  Inc.",2008,,,2.99
+295,Naked in Death, fiction,,J.D. Robb,HarperCollins Publishers,1995,,,6.01
+296,The Chamber, fiction,,John Grisham,"Amazon Digital Services,  Inc.",1994,,,0.99
+297,Midnight Sun (Partial Draft), fiction,,Stephenie Meyer,"Amazon Digital Services,  Inc.",2008,,,0.99
+298,NARUTO -ãƒŠãƒ«ãƒˆ- å·»ãƒŽä¸€ ,nonfiction,,"Masashi Kishimoto, Katy Bridges",HarperCollins Christian Publishing,1999,,,0.99
+299,The Unlikely Pilgrimage of Harold Fry, fiction,,Rachel Joyce,Hachette Book Group,2012,,,12.74
+300,Every Day, fiction,,David Levithan,"Amazon Digital Services,  Inc.",2012,,,3.99
+301,Xenocide, fiction,,Orson Scott Card,Simon and Schuster Digital Sales Inc,1991,,,5.99
+302,The Merchant of Venice, fiction,,"William Shakespeare, Robert          Jackson, Barbara A. Mowat, Paul Werstine","Amazon Digital Services,  Inc.",1596,,,1.5
+303,ShÅgun, fiction,,James Clavell,Hachette Book Group,1975,,,7.32
+304,"Lover Awakened (Black Dagger Brotherhood, #3)", fiction,,J.R. Ward,Simon and Schuster Digital Sales Inc,2006,,,4.99
+305,A Court of Thorns and Roses,nonfiction,,Sarah J. Maas,"Amazon Digital Services,  Inc.",2015,,,12.99
+306,Chicka Chicka Boom Boom,fiction,,"Bill Martin Jr., John Archambault, Lois Ehlert",Simon and Schuster Digital Sales Inc,1989,,,3.99
+307,Smile, fiction,,Raina Telgemeier,HarperCollins Publishers,2009,,,9.59
+308, Animal Farm & 1984, fiction,,"George Orwell, Christopher Hitchens","Amazon Digital Services,  Inc.",1950,,,0.99
+309,The Deep End of the Ocean, fiction,,Jacquelyn Mitchard,"Amazon Digital Services,  Inc.",1996,,,0.99
+310,The Bonesetter's Daughter,nonfiction,,Amy Tan,"Amazon Digital Services,  Inc.",2001,,,0.99
+311,"Angus, Thongs and Full-Frontal Snogging", fiction,,Louise Rennison,"Amazon Digital Services,  Inc.",1999,,,3.75
+312,Mr. Penumbra's 24-Hour Bookstore, fiction,,Robin Sloan,Hachette Book Group,2012,,,6.49
+313,When Breath Becomes Air, fiction,,"Paul Kalanithi, Abraham Verghese","Amazon Digital Services,  Inc.",2016,,,3.99
+314,Maniac Magee, fiction,,Jerry Spinelli,"Amazon Digital Services,  Inc.",1990,,,2.99
+315,Invisible Monsters, fiction,,Chuck Palahniuk,Simon and Schuster Digital Sales Inc,1999,,,2.99
+316,"Twelfth Night; or, What You Will", fiction,,William Shakespeare,Penguin Group (USA) LLC,1601,,,5.99
+317,Gathering Blue, fiction,,Lois Lowry,"Amazon Digital Services,  Inc.",2000,,,3.99
+318,The Westing Game, fiction,,Ellen Raskin,"Amazon Digital Services,  Inc.",1978,,,3.99
+319,Red Rising, fiction,,Pierce Brown,"Amazon Digital Services,  Inc.",2014,,,0.99
+320,The Way of Shadows, fiction,,Brent Weeks,Random House LLC,2008,,,2.99
+321,Walking Disaster, fiction,,Jamie McGuire,"Amazon Digital Services,  Inc.",2013,,,12.99
+322,Words of Radiance, fiction,,Brandon Sanderson,HarperCollins Publishers,2014,,,2.99
+323,Guess How Much I Love You, fiction,,"Sam McBratney, Anita Jeram","Amazon Digital Services,  Inc.",1988,,,2.99
+324,The Fiery Cross, fiction,,Diana Gabaldon,Penguin Group (USA) LLC,2001,,,4.62
+325,Night Shift, fiction,,"Stephen King, John D. MacDonald","Amazon Digital Services,  Inc.",1978,,,0.99
+326,Jaws, fiction,,Peter Benchley,Simon and Schuster Digital Sales Inc,1974,,,4.99
+327,The History of Love, fiction,,Nicole Krauss,"Amazon Digital Services,  Inc.",2005,,,3.99
+328,Pippi LÃ¥ngstrump, fiction,,"Astrid Lindgren, Lauren Child, Florence Lamborn, Nancy Seligsohn","Amazon Digital Services,  Inc.",1945,,,3.99
+329,L'Ã©lÃ©gance du hÃ©risson, fiction,,"Muriel Barbery, Alison Anderson",Hachette Book Group,2006,,,6.99
+330,Team of Rivals: The Political Genius of Abraham Lincoln, fiction,,"Doris Kearns Goodwin, Suzanne Toren","Amazon Digital Services,  Inc.",2005,,,2.99
+331,Dead in the Family, fiction,,Charlaine Harris,"Amazon Digital Services,  Inc.",2010,,,6.15
+332,La peste, fiction,,"Albert Camus, Stuart Gilbert","Amazon Digital Services,  Inc.",1947,,,3.99
+333,The Reptile Room, fiction,,"Lemony Snicket, Brett Helquist",Simon and Schuster Digital Sales Inc,1999,,,4.99
+334,Brain on Fire, fiction,,Susannah Cahalan,Hachette Book Group,2012,,,10.65
+335,Wicked Lovely , fiction,,Melissa Marr,Simon and Schuster Digital Sales Inc,2007,,,4.99
+336,Curious George, fiction,,H.A. Rey,"Amazon Digital Services,  Inc.",1941,,,0.99
+337,Die unendliche Geschichte, fiction,,"Michael Ende, Ralph Manheim, Roswitha Quadflieg","Amazon Digital Services,  Inc.",1979,,,3.99
+338,A Beautiful Mind, fiction,,Sylvia Nasar,Random House LLC,1998,,,6.49
+339,The Jungle, fiction,,"Upton Sinclair, Earl Lee, Kathleen DeGrave",Random House LLC,1906,,,5.99
+340,The Summoning, fiction,,Kelley Armstrong,"Amazon Digital Services,  Inc.",2008,,,1.99
+341,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,nonfiction,,Oliver Sacks,Random House LLC,1985,,,4.99
+342,Storm Island,fiction,,Ken Follett,"Amazon Digital Services,  Inc.",1978,,,2.99
+343,The Blind Assassin,nonfiction,,Margaret Atwood,HarperCollins Christian Publishing,2000,,,7.99
+344,Hollow City, fiction,,Ransom Riggs,Penguin Group (USA) LLC,2014,,,6.99
+345,House of Sand and Fog, fiction,,Andre Dubus III,"Amazon Digital Services,  Inc.",1999,,,3.99
+346,The Girl with All the Gifts, fiction,,M.R. Carey,Simon and Schuster Digital Sales Inc,2014,,,1.99
+347,As I Lay Dying,nonfiction,,William Faulkner,HarperCollins Publishers,1930,,,1.99
+348,Harold and the Purple Crayon, fiction,,Crockett Johnson,"Amazon Digital Services,  Inc.",1955,,,3.99
+349,"Lover Eternal (Black Dagger Brotherhood, #2)",nonfiction,,J.R. Ward,Random House LLC,2006,,,10.65
+350,Fool Moon , fiction,,Jim Butcher,Macmillan,2001,,,2.99
+351,David and Goliath,nonfiction,,Malcolm Gladwell,Random House LLC,2011,,,10.91
+352,é‹¼ã®éŒ¬é‡‘è¡“å¸« 1, fiction,,"Hiromu Arakawa, Akira Watanabe","Amazon Digital Services,  Inc.",2002,,,0.99
+353,Guards! Guards!, fiction,,Terry Pratchett,"Amazon Digital Services,  Inc.",1989,,,4.99
+354,The Year of Magical Thinking, fiction,,Joan Didion,"Amazon Digital Services,  Inc.",2005,,,3.99
+355,We Need to Talk About Kevin, fiction,,Lionel Shriver,HarperCollins Publishers,2003,,,25.89
+356,Rendezvous with Rama, fiction,,Arthur C. Clarke,"Amazon Digital Services,  Inc.",1973,,,6.47
+357,The Queen of the Damned, fiction,,Anne Rice,"Amazon Digital Services,  Inc.",1988,,,0.99
+358,The Age of Innocence, fiction,,"Edith Wharton, Maureen Howard","Amazon Digital Services,  Inc.",1920,,,5.26
+359,The Selfish Gene, fiction,,Richard Dawkins,"Amazon Digital Services,  Inc.",1976,,,3.99
+360,Year of Wonders: A Novel of the Plague, fiction,,Geraldine Brooks,"Amazon Digital Services,  Inc.",2001,,,0.99
+361,The Black Echo,nonfiction,,Michael Connelly,"Amazon Digital Services,  Inc.",1992,,,5.69
+362,Anthem, fiction,,Ayn Rand,"Amazon Digital Services,  Inc.",1938,,,4.99
+363,Gabriel's Inferno, fiction,,Sylvain Reynard,Penguin Group (USA) LLC,2011,,,7.99
+364,Cloudy with a Chance of Meatballs, fiction,,"Judi Barrett, Ron Barrett",Penguin Group (USA) LLC,1978,,,7.49
+365,Major Pettigrew's Last Stand, fiction,,Helen Simonson,Simon and Schuster Digital Sales Inc,2010,,,2.99
+366,Vision in White, fiction,,Nora Roberts,Random House LLC,2009,,,1.99
+367,The Tenth Circle, fiction,,Jodi Picoult,"Amazon Digital Services,  Inc.",2006,,,17.98
+368,The Throne of Fire,nonfiction,,Rick Riordan,"Amazon Digital Services,  Inc.",2011,,,9.44
+369,Old Man's War, fiction,,John Scalzi,Macmillan,2005,,,5.99
+370,Gerald's Game,fiction,,Stephen King,"Amazon Digital Services,  Inc.",1992,,,1.99
+371,Two for the Dough,nonfiction,,Janet Evanovich,"Amazon Digital Services,  Inc.",1996,,,9.99
+372,The Joy of Cooking,fiction,,"Irma S. Rombauer, Marion Rombauer Becker, Ethan Becker",Hachette Book Group,1931,,,8.59
+373,The Forever War, fiction,,Joe Haldeman,"Amazon Digital Services,  Inc.",1974,,,0.99
+374,Insomnia, fiction,,"Stephen King, Bettina Blanch Tyroller",Random House LLC,1994,,,10.65
+375,Reading Lolita in Tehran: A Memoir in Books, fiction,,Azar Nafisi,"Amazon Digital Services,  Inc.",2003,,,4.99
+376,The Blade Itself, fiction,,Joe Abercrombie,Random House LLC,2006,,,7.99
+377,The Arctic Incident,nonfiction,,Eoin Colfer,"Amazon Digital Services,  Inc.",2002,,,2.99
+378,The Shipping News, fiction,,Annie Proulx,"Amazon Digital Services,  Inc.",1993,,,5.99
+379,äººç”ŸãŒã¨ãã‚ãç‰‡ã¥ã‘ã®é­”æ³•, fiction,,"Marie KondÅ, Cathy Hirano","Amazon Digital Services,  Inc.",2011,,,3.99
+380,All the Bright Places, fiction,,"Jennifer Niven, ÙØ±Ø§Ù†Ú© Ù…Ø¹Ù†ÙˆÛŒ",HarperCollins Publishers,2015,,,1.99
+381,DÃ©jÃ  Dead, fiction,,Kathy Reichs,Hachette Book Group,1997,,,4.99
+382,The Alchemyst: The Secrets of The Immortal Nicholas Flamel, fiction,,Michael Scott,Penguin Group (USA) LLC,2007,,,7.99
+383,The Marriage Plot, fiction,,Jeffrey Eugenides,Random House LLC,2011,,,5.12
+384,Hija de la fortuna, fiction,,"Isabel Allende, Margaret Sayers Peden","Amazon Digital Services,  Inc.",1998,,,2.99
+385,Luckiest Girl Alive, fiction,,Jessica Knoll,Simon and Schuster Digital Sales Inc,2015,,,9.56
+386,"Crank (Crank, #1)", fiction,,Ellen Hopkins,"Amazon Digital Services,  Inc.",2004,,,3.99
+387,The Raven Boys,nonfiction,,Maggie Stiefvater,"Amazon Digital Services,  Inc.",2012,,,0.99
+388,I Am Legend and Other Stories, fiction,,Richard Matheson,"Amazon Digital Services,  Inc.",1954,,,2.99
+389,Olive Kitteridge, fiction,,Elizabeth Strout,"Amazon Digital Services,  Inc.",2008,,,0.99
+390,Not that Kind of Girl,nonfiction,,"Lena Dunham, Joana Avillez",Random House LLC,2014,,,5.99
+391,Good to Great: Why Some Companies Make the Leap... and Others Don't, fiction,,James C. Collins,"Amazon Digital Services,  Inc.",2001,,,4.99
+392,Fire, fiction,,Kristin Cashore,Penguin Group (USA) LLC,2009,,,11.99
+393,En attendant Godot, fiction,,Samuel Beckett,Penguin Group (USA) LLC,1952,,,7.99
+394,White Fang, fiction,,Jack London,Random House LLC,1906,,,8.39
+395,Wolves of the Calla, fiction,,"Stephen King, Bernie Wrightson","Amazon Digital Services,  Inc.",2003,,,2.99
+396,His Dark Materials, fiction,,Philip Pullman,"Amazon Digital Services,  Inc.",2000,,,2.99
+397,The Edge of Never, fiction,,J.A. Redmerski,Simon and Schuster Digital Sales Inc,2012,,,2.99
+398,Reconstructing Amelia,nonfiction,,Kimberly McCreight,"Amazon Digital Services,  Inc.",2013,,,0.99
+399,The One Plus One, fiction,,Jojo Moyes,Hachette Book Group,2014,,,1.99
+400,The Hours, fiction,,Michael Cunningham,HarperCollins Publishers,1998,,,2.5
+401,Wallbanger,nonfiction,,Alice Clayton,"Amazon Digital Services,  Inc.",2012,,,9.49
+402,Holidays on Ice, fiction,,David Sedaris,"Amazon Digital Services,  Inc.",1997,,,2.99
+403,Desperation, fiction,,Stephen King,"Amazon Digital Services,  Inc.",1996,,,0.99
+404,Passion, fiction,,Lauren Kate,"Amazon Digital Services,  Inc.",2011,,,3.99
+405,The Kill Order, fiction,,James Dashner,Random House LLC,2012,,,5.38
+406,Angelfall, fiction,,Susan Ee,"Amazon Digital Services,  Inc.",2011,,,0.99
+407,Empire Falls, fiction,,Richard Russo,"Amazon Digital Services,  Inc.",2001,,,2.99
+408,I'll Give You the Sun, fiction,,Jandy Nelson,Simon and Schuster Digital Sales Inc,2014,,,2.99
+409,Survivor, fiction,,Chuck Palahniuk,HarperCollins Publishers,1999,,,0.99
+410,Shopaholic and Baby, fiction,,Sophie Kinsella,"Amazon Digital Services,  Inc.",2007,,,0.99
+411,The Dark Tower, fiction,,Stephen King,"Amazon Digital Services,  Inc.",2004,,,3.99
+412,Twilight Director's Notebook, fiction,,Catherine Hardwicke,HarperCollins Publishers,2009,,,8.99
+413,Shopaholic Abroad, fiction,,Sophie Kinsella,Penguin Group (USA) LLC,2001,,,7.69
+414,"Surely You're Joking, Mr. Feynman! Adventures of a Curious Character", fiction,,Richard Feynman,"Amazon Digital Services,  Inc.",1984,,,4.99
+415,Linger, fiction,,Maggie Stiefvater,"Amazon Digital Services,  Inc.",2010,,,1.99
+416,The Complete Anne of Green Gables Boxed Set, fiction,,L.M. Montgomery,Random House LLC,1908,,,7.99
+417,A Portrait of the Artist as a Young Man,fiction,,"James Joyce, Seamus Deane",Random House LLC,1916,,,2.99
+418,The Gathering Storm, fiction,,"Robert Jordan, Brandon Sanderson","Amazon Digital Services,  Inc.",2009,,,3.99
+419,Middlemarch,nonfiction,,"George Eliot, Michel Faber","Amazon Digital Services,  Inc.",1871,,,0.99
+420,Point of Retreat, fiction,,Colleen Hoover,"Amazon Digital Services,  Inc.",2012,,,0.99
+421,The Partner, fiction,,John Grisham,"Amazon Digital Services,  Inc.",1997,,,3.99
+422,The Hobbit and The Lord of the Rings, fiction,,J.R.R. Tolkien,"Amazon Digital Services,  Inc.",1973,,,0.99
+423,Thoughtless, fiction,,S.C. Stephens,Penguin Group (USA) LLC,2009,,,5.99
+424,Presumed Innocent, fiction,,Scott Turow,"Amazon Digital Services,  Inc.",1986,,,2.99
+425,The Dark Half, fiction,,Stephen King,Macmillan,1989,,,2.99
+426,Cleopatra: A Life, fiction,,Stacy Schiff,"Amazon Digital Services,  Inc.",2006,,,0.99
+427,The World Is Flat: A Brief History of the Twenty-first Century, fiction,,Thomas L. Friedman,Hachette Book Group,2005,,,2.99
+428,Steelheart, fiction,,Brandon Sanderson,Penguin Group (USA) LLC,2013,,,6.83
+429,Voyage au centre de la Terre,nonfiction,,Jules Verne,Macmillan,1864,,,9.59
+430,The Happiness Project, fiction,,Gretchen Rubin,"Amazon Digital Services,  Inc.",2009,,,0.99
+431,The Man in the High Castle, fiction,,Philip K. Dick,Hachette Book Group,1962,,,12.74
+432,Helter Skelter: The True Story of The Manson Murders, fiction,,"Vincent Bugliosi, Curt Gentry","Amazon Digital Services,  Inc.",1974,,,0.99
+433,Inferno,fiction,,"Dante Alighieri, Anthony M. Esolen",Hachette Book Group,1320,,,1.99
+434,Shadow of Night, fiction,,Deborah Harkness,"Amazon Digital Services,  Inc.",2012,,,6.98
+435,Leaving Time,fiction,,Jodi Picoult,"Amazon Digital Services,  Inc.",2014,,,0.99
+436,Moon Called, fiction,,Patricia Briggs,"Amazon Digital Services,  Inc.",2006,,,1.99
+437,Blue Bloods, fiction,,Melissa de la Cruz,"Amazon Digital Services,  Inc.",2006,,,3.99
+438,The Alienist, fiction,,Caleb Carr,HarperCollins Publishers,1994,,,6.99
+439,Between the World and Me, fiction,,Ta-Nehisi Coates,"Amazon Digital Services,  Inc.",2015,,,2.99
+440,Paradise Lost, fiction,,"John Milton, John      Leonard","Amazon Digital Services,  Inc.",1667,,,4.99
+441,The Big Short: Inside the Doomsday Machine,fiction,,Michael   Lewis,Simon and Schuster Digital Sales Inc,2009,,,6.99
+442,The Girl Who Loved Tom Gordon,nonfiction,,Stephen King,"Amazon Digital Services,  Inc.",1999,,,7.74
+443, A Monster Calls , fiction,,"Patrick Ness, Jim Kay, Siobhan Dowd",Random House LLC,2011,,,10.65
+444,Towers of Midnight,fiction,,"Robert Jordan, Brandon Sanderson","Amazon Digital Services,  Inc.",2010,,,1.99
+445,The Day of the Jackal, fiction,,Frederick Forsyth,"Amazon Digital Services,  Inc.",1971,,,0.99
+446,Rework, fiction,,"Jason Fried, David Heinemeier Hansson",Simon and Schuster Digital Sales Inc,2010,,,2.99
+447,Attachments, fiction,,Rainbow Rowell,"Amazon Digital Services,  Inc.",2011,,,0.99
+448,The Twilight Saga, fiction,,"Stephenie Meyer, Ilyana Kadushin, Matt Walters",Penguin Group (USA) LLC,2005,,,9.49
+449,Tell the Wolves I'm Home, fiction,,Carol Rifka Brunt,"Amazon Digital Services,  Inc.",2012,,,1.99
+450,All Creatures Great And Small, fiction,,James Herriot,"Amazon Digital Services,  Inc.",1972,,,5.99
+451,The Unbecoming of Mara Dyer,fiction,,Michelle Hodkin,Macmillan,2011,,,10.99
+452,Three to Get Deadly, fiction,,Janet Evanovich,Hachette Book Group,1997,,,6.49
+453,The Scarlet Pimpernel,fiction,,Emmuska Orczy,Hachette Book Group,1905,,,3.79
+454,The Monster at the End of This Book, fiction,,"Jon Stone, Michael J. Smollin","Amazon Digital Services,  Inc.",1971,,,1.99
+455,Tales of a Fourth Grade Nothing, fiction,,Judy Blume,Penguin Group (USA) LLC,1972,,,2.99
+456,Shadow and Bone,fiction,,Leigh Bardugo,"Amazon Digital Services,  Inc.",2012,,,3.99
+457,Het diner, fiction,,"Herman Koch, Sam Garrett","Amazon Digital Services,  Inc.",2009,,,4.99
+458,Champion,nonfiction,,Marie Lu,Simon and Schuster Digital Sales Inc,2013,,,9.99
+459,Contact, fiction,,Carl Sagan,Random House LLC,1985,,,7.99
+460,Lola and the Boy Next Door, fiction,,Stephanie Perkins,"Amazon Digital Services,  Inc.",2011,,,3.99
+461,White Teeth,fiction,,Zadie Smith,"Amazon Digital Services,  Inc.",1999,,,0.99
+462,American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History, fiction,,"Chris Kyle, Scott McEwen, Jim DeFelice",Macmillan,2012,,,12.74
+463,My Horizontal Life: A Collection of One-Night Stands,nonfiction,,Chelsea Handler,Simon and Schuster Digital Sales Inc,2004,,,7.66
+464,The Power of Six,fiction,,Pittacus Lore,Macmillan,2011,,,10.91
+465,The Interestings, fiction,,Meg Wolitzer,HarperCollins Publishers,2013,,,7.99
+466,The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury, fiction,,Bill Watterson,"Amazon Digital Services,  Inc.",1988,,,0.99
+467,People of the Book, fiction,,Geraldine Brooks,Penguin Group (USA) LLC,2008,,,7.69
+468,The Secret Keeper, fiction,,Kate Morton,HarperCollins Publishers,2012,,,1.99
+469,Better Homes & Gardens New Cook Book,nonfiction,,Better Homes and Gardens,"Amazon Digital Services,  Inc.",1953,,,0.99
+470,"So Long, and Thanks for All the Fish", fiction,,Douglas Adams,HarperCollins Publishers,1984,,,11.89
+471,Der Steppenwolf: ErzÃ¤hlung,fiction,,"Hermann Hesse, Basil Creighton","Amazon Digital Services,  Inc.",1927,,,4.99
+472,The Surgeon,nonfiction,,Tess Gerritsen,Random House LLC,2001,,,10.99
+473,The Girl You Left Behind, fiction,,Jojo Moyes,Random House LLC,2012,,,6.94
+474,Royal Assassin,fiction,,Robin Hobb,"Amazon Digital Services,  Inc.",1996,,,0.99
+475,Childhood's End, fiction,,Arthur C. Clarke,"Amazon Digital Services,  Inc.",1953,,,7.39
+476, The Tale of Despereaux, fiction,,"Kate DiCamillo, Timothy Basil Ering",Penguin Group (USA) LLC,2004,,,6.99
+477,"Animal, Vegetable, Miracle: A Year of Food Life", fiction,,"Barbara Kingsolver, Steven L. Hopp, Camille Kingsolver, Richard A. Houser","Amazon Digital Services,  Inc.",2007,,,4.99
+478,Heir of Fire, fiction,,Sarah J. Maas,Hachette Book Group,2014,,,0.99
+479,The Sweetness at the Bottom of the Pie, fiction,,Alan Bradley,Penguin Group (USA) LLC,2009,,,10.65
+480,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality, fiction,,Donald Miller,"Amazon Digital Services,  Inc.",2003,,,0.99
+481,A Breath of Snow and Ashes,nonfiction,,Diana Gabaldon,Penguin Group (USA) LLC,2005,,,10.65
+482,The Blood of Olympus, fiction,,Rick Riordan,"Amazon Digital Services,  Inc.",2014,,,0.99
+483,Truly Madly Guilty, fiction,,Liane Moriarty,"Amazon Digital Services,  Inc.",2016,,,0.99
+484,"Saga, Volume One", fiction,,"Brian K. Vaughan, Fiona Staples","Amazon Digital Services,  Inc.",2012,,,0.99
+485,The Art of Fielding, fiction,,Chad Harbach,"Amazon Digital Services,  Inc.",2011,,,1.99
+486,A Moveable Feast, fiction,,Ernest Hemingway,Penguin Group (USA) LLC,1964,,,4.99
+487,Fablehaven, fiction,,Brandon Mull,Random House LLC,2006,,,9.02
+488,The Wide Window, fiction,,"Lemony Snicket, Brett Helquist","Amazon Digital Services,  Inc.",2000,,,0.99
+489,Grave Peril,nonfiction,,Jim Butcher,"Amazon Digital Services,  Inc.",2001,,,1.99
+490,Einstein. His Life and Universe,nonfiction,,Walter Isaacson,"Amazon Digital Services,  Inc.",2007,,,1.99
+491,Effortless, fiction,,S.C. Stephens,"Amazon Digital Services,  Inc.",2011,,,0.99
+492,The Street Lawyer, fiction,,John Grisham,Random House LLC,1998,,,1.99
+493,"Roll of Thunder, Hear My Cry",nonfiction,,Mildred D. Taylor,Hachette Book Group,1976,,,3.99
+494,Pride and Prejudice and Zombies, fiction,,"Seth Grahame-Smith, Jane Austen","Amazon Digital Services,  Inc.",2009,,,3.82
+495,Lets Explore Diabetes with Owls, fiction,,David Sedaris,Macmillan,2013,,,2.99
+496,Ð˜Ð´Ð¸Ð¾Ñ‚,fiction,,"Fyodor Dostoyevsky, Constance Garnett, Alan Myers, Joseph Frank, Anna Brailovsky",Penguin Group (USA) LLC,1868,,,8.99
+497,Dirk Gently's Holistic Detective Agency,nonfiction,,Douglas Adams,"Amazon Digital Services,  Inc.",1987,,,2.99
+498,Rodrick Rules, fiction,,Jeff Kinney,"Amazon Digital Services,  Inc.",2008,,,2.99
+499,Why Not Me?, fiction,,Mindy Kaling,Random House LLC,2015,,,9.99
+500,Four: A Divergent Collection,fiction,,Veronica Roth,"Amazon Digital Services,  Inc.",2014,,,2.99
+501,Modern Romance, fiction,,"Aziz Ansari, Eric Klinenberg","Amazon Digital Services,  Inc.",2015,,,0.99
+502,The One and Only Ivan, fiction,,"Katherine Applegate, Patricia Castelao","Amazon Digital Services,  Inc.",2012,,,2.99
+503,The Perfect Storm: A True Story of Men Against the Sea, fiction,,Sebastian Junger,Hachette Book Group,1997,,,3.99
+504,Elantris, fiction,,Brandon Sanderson,Simon and Schuster Digital Sales Inc,2005,,,1.99
+505,The Knife of Never Letting Go, fiction,,Patrick Ness,"Amazon Digital Services,  Inc.",2008,,,7.19
+506,One Thousand White Women: The Journals of May Dodd, fiction,,Jim Fergus,"Amazon Digital Services,  Inc.",1998,,,2.99
+507,Handle with Care,fiction,,Jodi Picoult,HarperCollins Publishers,2009,,,8.99
+508,Song of Susannah, fiction,,"Stephen King, Darrel Anderson","Amazon Digital Services,  Inc.",2004,,,2.99
+509,Reached, fiction,,Ally Condie,"Amazon Digital Services,  Inc.",2012,,,0.99
+510,Midnight's Children,nonfiction,,Salman Rushdie,"Amazon Digital Services,  Inc.",1981,,,9.39
+511,The Zombie Survival Guide: Complete Protection from the Living Dead, fiction,,Max Brooks,"Amazon Digital Services,  Inc.",2004,,,0.99
+512,The Testament,nonfiction,,John Grisham,Random House LLC,1999,,,4.99
+513,Murder at the Vicarage,nonfiction,,Agatha Christie,HarperCollins Publishing,1930,,,4.29
+514,Among the Hidden , fiction,,Margaret Peterson Haddix,HarperCollins Publishers,1998,,,13.59
+515,In Defense of Food: An Eater's Manifesto, fiction,,Michael Pollan,"Amazon Digital Services,  Inc.",2007,,,3.99
+516,The Witch of Blackbird Pond,nonfiction,,Elizabeth George Speare,Penguin Group (USA) LLC,1958,,,7.99
+517,The Heir, fiction,,Kiera Cass,"Amazon Digital Services,  Inc.",2015,,,3.99
+518,Shopaholic Ties the Knot, fiction,,Sophie Kinsella,"Amazon Digital Services,  Inc.",2002,,,2.99
+519,The Woman in White, fiction,,"Wilkie Collins, Matthew Sweet","Amazon Digital Services,  Inc.",1859,,,4.99
+520,Career of Evil, fiction,,"Robert Galbraith, J.K. Rowling",Penguin Group (USA) LLC,2015,,,7.58
+521,The Summer I Turned Pretty, fiction,,Jenny Han,"Amazon Digital Services,  Inc.",2009,,,3.99
+522,Four to Score , fiction,,Janet Evanovich,"Amazon Digital Services,  Inc.",1998,,,0.99
+523,The Color of Water: A Black Man's Tribute to His White Mother, fiction,,James McBride,"Amazon Digital Services,  Inc.",1996,,,0.99
+524,"SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance", fiction,,"Steven D. Levitt, Stephen J. Dubner",Penguin Group (USA) LLC,2009,,,7.69
+525,Darkfever, fiction,,Karen Marie Moning,Penguin Group (USA) LLC,2006,,,10.65
+526,Stone of Tears, fiction,,Terry Goodkind,Penguin Group (USA) LLC,1995,,,7.31
+527,Heart of the Matter, fiction,,Emily Giffin,Simon and Schuster Digital Sales Inc,2010,,,5.99
+528,Vanity Fair: A Novel Without a Hero, fiction,,"William Makepeace Thackeray, John Carey","Amazon Digital Services,  Inc.",1847,,,0.99
+529,The Sirens of Titan, fiction,,Kurt Vonnegut Jr.,"Amazon Digital Services,  Inc.",1959,,,1
+530,Dolores Claiborne, fiction,,"Stephen King, Dominique Dill","Amazon Digital Services,  Inc.",1992,,,4.38
+531,The Nest,nonfiction,,Cynthia D'Aprix Sweeney,"Amazon Digital Services,  Inc.",2016,,,9.99
+532,"Fables, Volume 1: Legends in Exile", fiction,,"Bill Willingham, Lan Medina, Steve Leialoha, Craig Hamilton, James Jean",Penguin Group (USA) LLC,2001,,,7.5
+533,Getting Things Done: How To Achieve Stress-free Productivity, fiction,,David    Allen,"Amazon Digital Services,  Inc.",2001,,,3.99
+534,The Celestine Prophecy, fiction,,James Redfield,Penguin Group (USA) LLC,1993,,,3.99
+535,My Life Next Door , fiction,,Huntley Fitzpatrick,Simon and Schuster Digital Sales Inc,2012,,,3.99
+536,Winter of the World,nonfiction,,Ken Follett,HarperCollins Publishing,2012,,,9.99
+537,"è‰²å½©ã‚’æŒãŸãªã„å¤šå´Žã¤ãã‚‹ã¨ã€å½¼ã®å·¡ç¤¼ã®å¹´ [Shikisai o motanai Tazaki Tsukuru to, kare no junrei no toshi]",fiction,,"Haruki Murakami, Philip Gabriel","Amazon Digital Services,  Inc.",2013,,,3.99
+538,To The Lighthouse , fiction,,Virginia Woolf,Macmillan,1927,,,7.73
+539,Five Point Someone: What Not to Do at IIT, fiction,,Chetan Bhagat,"Amazon Digital Services,  Inc.",2004,,,0.99
+540,Guilty Pleasures, fiction,,Laurell K. Hamilton,"Amazon Digital Services,  Inc.",1993,,,2.99
+541,The Messenger, fiction,,Markus Zusak,"Amazon Digital Services,  Inc.",2002,,,0.99
+542,Far from the Madding Crowd, fiction,,"Thomas Hardy, Rosemarie Morgan, Shannon Russell",HarperCollins Publishers,1874,,,13.59
+543,Equal Rites, fiction,,Terry Pratchett,"Amazon Digital Services,  Inc.",1987,,,0.99
+544,House of Leaves, fiction,,Mark Z. Danielewski,"Amazon Digital Services,  Inc.",2000,,,2.99
+545,Cruel & Unusual, fiction,,Patricia Cornwell,"Amazon Digital Services,  Inc.",1993,,,2.99
+546,Sycamore Row, fiction,,John Grisham,Penguin Group (USA) LLC,2013,,,7.31
+547,Awakened, fiction,,"P.C. Cast, Kristin Cast",Hachette Book Group,2011,,,4.63
+548,My Ãntonia, fiction,,Willa Cather,"Amazon Digital Services,  Inc.",1918,,,3.99
+549,Life As We Knew It,nonfiction,,Susan Beth Pfeffer,"Amazon Digital Services,  Inc.",2006,,,7.52
+550,America (The Book): A Citizen's Guide to Democracy Inaction,nonfiction,,"Jon Stewart, Ben Karlin, David Javerbaum, Rich Bloomquist, Steve Bodow, Tim Carvell, Eric Drysdale, J.R. Havlan, Scott Jacobson, Tom Johnson, Rob Kutner, Chris Regan, Jason Reich, Jason Ross, Stephen Colbert, Samantha Bee, Rob Corddry, Brendan Hay, Ed Helms",Random House LLC,2004,,,7.99
+551,90 Minutes in Heaven, fiction,,"Don Piper, Cecil Murphey","Amazon Digital Services,  Inc.",2004,,,8.57
+552,The Longest Ride, fiction,,Nicholas Sparks,"Amazon Digital Services,  Inc.",2012,,,0.99
+553,é“å¾·ç¶“ [dÃ o dÃ© jÄ«ng], fiction,,"Lao Tzu, Gia-Fu Feng, Jane English, Chungliang Al Huang, Rowena Pattee Kryder, Toinette Lippe",Penguin Group (USA) LLC,-300,,,4.59
+554,Kane and Abel,fiction,,Jeffrey Archer,"Amazon Digital Services,  Inc.",1979,,,4.99
+555,Change of Heart, fiction,,Jodi Picoult,Simon and Schuster Digital Sales Inc,2008,,,6.83
+556,Sam's Letters To Jennifer, fiction,,James Patterson,Hachette Book Group,2001,,,5.99
+557,Grey, fiction,,E.L. James,Hachette Book Group,2015,,,7.88
+558,Dune Messiah , fiction,,Frank Herbert,"Amazon Digital Services,  Inc.",1969,,,3.99
+559,The Great Divorce,fiction,,C.S. Lewis,Penguin Group (USA) LLC,1945,,,9.99
+560,Little Earthquakes,nonfiction,,Jennifer Weiner,Random House LLC,2004,,,7.5
+561,Eventyr og historier, fiction,,"Hans Christian Andersen, Lily Owens, Arthur Rackham, Hans Richter","Amazon Digital Services,  Inc.",1835,,,4.99
+562,New Moon: The Complete Illustrated Movie Companion, fiction,,Mark Cotta Vaz,Penguin Group (USA) LLC,2009,,,10.99
+563,Maybe Someday, fiction,,Colleen Hoover,Random House LLC,2014,,,6.83
+564,Mr Maybe, fiction,,Jane Green,"Amazon Digital Services,  Inc.",1999,,,3.99
+565,Anne of the Island, fiction,,L.M. Montgomery,Random House LLC,1915,,,0.99
+566,Also sprach Zarathustra, fiction,,"Friedrich Nietzsche, Walter Kaufmann",Penguin Group (USA) LLC,1883,,,7.31
+567,North and South, fiction,,"Elizabeth Gaskell, Alan Shelston","Amazon Digital Services,  Inc.",1854,,,3.99
+568,A Stolen Life,fiction,,Jaycee Dugard,"Amazon Digital Services,  Inc.",2011,,,3.99
+569,The Immortals of Meluha, fiction,,Amish Tripathi,"Amazon Digital Services,  Inc.",2010,,,2.99
+570,The Lost World, fiction,,Michael Crichton,"Amazon Digital Services,  Inc.",1995,,,9.99
+571,Requiem, fiction,,Lauren Oliver,"Amazon Digital Services,  Inc.",2013,,,4.99
+572,A Crown of Swords,nonfiction,,Robert Jordan,"Amazon Digital Services,  Inc.",1996,,,0.99
+573,Aesopica, fiction,,"Aesop, Laura Harris, Laura Gibbs","Amazon Digital Services,  Inc.",-560,,,4.99
+574,Blood Meridian: Or the Evening Redness in the West, fiction,,Cormac McCarthy,Penguin Group (USA) LLC,1985,,,5.26
+575,Finale, fiction,,Becca Fitzpatrick,Penguin Group (USA) LLC,2012,,,10.99
+576,Skeleton Crew, fiction,,Stephen King,Random House LLC,1985,,,6.94
+577,Lullaby, fiction,,Chuck Palahniuk,Hachette Book Group,2002,,,7.99
+578,Two States, fiction,,Chetan Bhagat,"Amazon Digital Services,  Inc.",2009,,,6.15
+579,ãƒ´ã‚¡ãƒ³ãƒ‘ã‚¤ã‚¢é¨Žå£« 1,nonfiction,,"Matsuri Hino, Tomo Kimura","Amazon Digital Services,  Inc.",2005,,,9.01
+580,Summer Knight, fiction,,Jim Butcher,"Amazon Digital Services,  Inc.",2002,,,3.99
+581,Dragonflight, fiction,,"Anne McCaffrey, Teodor PanasiÅ„ski","Amazon Digital Services,  Inc.",1968,,,0.99
+582,"The History of the Hobbit, Part One: Mr. Baggins", fiction,,"John D. Rateliff, J.R.R. Tolkien","Amazon Digital Services,  Inc.",2007,,,3.99
+583,Ugly Love, fiction,,Colleen Hoover,Random House LLC,2014,,,5.99
+584,Chocolat,nonfiction,,Joanne Harris,"Amazon Digital Services,  Inc.",1998,,,6.52
+585,The Amityville Horror, fiction,,Jay Anson,Hachette Book Group,1977,,,8.89
+586,The English Patient, fiction,,Michael Ondaatje,"Amazon Digital Services,  Inc.",1992,,,4.99
+587,Gabriel's Rapture, fiction,,Sylvain Reynard,"Amazon Digital Services,  Inc.",2012,,,3.99
+588,Dubliners,fiction,,"James Joyce, Jeri Johnson",Random House LLC,1914,,,2.99
+589,Let the Great World Spin, fiction,,Colum McCann,"Amazon Digital Services,  Inc.",2009,,,2.99
+590,The Eternity Code,fiction,,Eoin Colfer,"Amazon Digital Services,  Inc.",2003,,,2.99
+591,Tell No One, fiction,,Harlan Coben,"Amazon Digital Services,  Inc.",2001,,,2.99
+592,The Tommyknockers, fiction,,Stephen King,"Amazon Digital Services,  Inc.",1987,,,5.99
+593,Hex Hall,fiction,,Rachel Hawkins,"Amazon Digital Services,  Inc.",2010,,,3.99
+594,Steal Like an Artist, fiction,,Austin Kleon,"Amazon Digital Services,  Inc.",2010,,,0.99
+595,Beautiful Bastard, fiction,,Christina Lauren,"Amazon Digital Services,  Inc.",2013,,,2.99
+596,Prodigal Summer, fiction,,Barbara Kingsolver,Simon and Schuster Digital Sales Inc,2000,,,1.99
+597,We Were the Mulvaneys, fiction,,Joyce Carol Oates,Hachette Book Group,1996,,,10.65
+598,Understanding Comics: The Invisible Art,nonfiction,,Scott McCloud,"Amazon Digital Services,  Inc.",1993,,,0.99
+599,Beautiful Darkness,nonfiction,,"Kami Garcia, Margaret Stohl",HarperCollins Publishers,2010,,,1.99
+600,The Psychopath Test, fiction,,Jon Ronson,Macmillan,2011,,,3.79
+601,Vanishing Acts, fiction,,Jodi Picoult,Random House LLC,2005,,,1.99
+602,Absolute Power, fiction,,David Baldacci,Macmillan,1995,,,12.74
+603,Hot Six, fiction,,Janet Evanovich,"Amazon Digital Services,  Inc.",2000,,,3.99
+604,The Time Keeper, fiction,,Mitch Albom,"Amazon Digital Services,  Inc.",2012,,,0.99
+605,A Dirty Job,nonfiction,,Christopher Moore,"Amazon Digital Services,  Inc.",2006,,,0.99
+606,Moneyball: The Art of Winning an Unfair Game, fiction,,Michael   Lewis,"Amazon Digital Services,  Inc.",2003,,,0.99
+607,The Amulet of Samarkand, fiction,,Jonathan Stroud,"Amazon Digital Services,  Inc.",2003,,,0.99
+608,I Am America (And So Can You!), fiction,,"Stephen Colbert, Richard Dahm, Paul Dinello, Allison Silverman, Michael Brumm, Eric Drydale, Rob Dubbin, Glenn Eichler, Peter Grosz, Peter Gwinn, Jay Katsir, Laura Krafft, Frank Lesser, Tom Purcell",Penguin Group (USA) LLC,2007,,,6.92
+609,Exodus, fiction,,Leon Uris,Random House LLC,1958,,,11.49
+610,Stones from the River, fiction,,Ursula Hegi,"Amazon Digital Services,  Inc.",1994,,,6.15
+611,The Big Sleep, fiction,,Raymond Chandler,"Amazon Digital Services,  Inc.",1939,,,0.99
+612,Cannery Row , fiction,,John Steinbeck,HarperCollins Publishers,1945,,,9.01
+613,Seriously...I'm Kidding, fiction,,Ellen DeGeneres,Hachette Book Group,2011,,,6.64
+614,The Miserable Mill, fiction,,"Lemony Snicket, Brett Helquist",Penguin Group (USA) LLC,2000,,,10.99
+615,The Snow Child, fiction,,Eowyn Ivey,"Amazon Digital Services,  Inc.",2012,,,0.99
+616,Wait for You, fiction,,"J. Lynn, Jennifer L. Armentrout","Amazon Digital Services,  Inc.",2013,,,3.99
+617,The Last Straw, fiction,,Jeff Kinney,"Amazon Digital Services,  Inc.",2009,,,3.99
+618,La Divina Commedia, fiction,,"Dante Alighieri, Allen Mandelbaum, Eugenio Montale","Amazon Digital Services,  Inc.",1308,,,0.99
+619,The Tao of Pooh, fiction,,"Benjamin Hoff, Ernest H. Shepard",HarperCollins Publishers,1982,,,9.59
+620,Onyx, fiction,,Jennifer L. Armentrout,Random House LLC,2012,,,9.02
+621,"Unravel Me (Shatter Me, #2)", fiction,,Tahereh Mafi,"Amazon Digital Services,  Inc.",2013,,,0.99
+622,The Birth of Venus, fiction,,Sarah Dunant,"Amazon Digital Services,  Inc.",2003,,,2.99
+623,The Opal Deception, fiction,,Eoin Colfer,"Amazon Digital Services,  Inc.",2005,,,0.99
+624,Det som inte dÃ¶dar oss, fiction,,"David Lagercrantz, Stieg Larsson, George Goulding",Random House LLC,2015,,,0.99
+625,The Girls, fiction,,Emma Cline,Random House LLC,2016,,,7.99
+626,The Goose Girl, fiction,,Shannon Hale,Simon and Schuster Digital Sales Inc,2003,,,0.99
+627,Mystic River, fiction,,Dennis Lehane,Random House LLC,2001,,,8.99
+628,Warm Bodies, fiction,,Isaac Marion,"Amazon Digital Services,  Inc.",2010,,,3.99
+629,The Prince and the Pauper, fiction,,"Mark Twain, Everett H. Emerson",Random House LLC,1881,,,7.99
+630,The Moon is a Harsh Mistress, fiction,,Robert A. Heinlein,Penguin Group (USA) LLC,1966,,,7.69
+631,The Forty Rules of Love, fiction,,"Elif Shafak, Ø¥Ù„ÙŠÙ Ø´Ø§ÙØ§Ù‚, Ø§Ø±Ø³Ù„Ø§Ù† ÙØµÛŒØ­ÛŒ, Ù…Ø­Ù…Ø¯ Ø¯Ø±ÙˆÙŠØ´","Amazon Digital Services,  Inc.",2010,,,0.99
+632,Joyland, fiction,,Stephen King,"Amazon Digital Services,  Inc.",2013,,,0.99
+633,é€²æ’ƒã®å·¨äºº 1, fiction,,"Hajime Isayama, Sheldon Drzka","Amazon Digital Services,  Inc.",2010,,,0.99
+634,Tender Is the Night, fiction,,F. Scott Fitzgerald,"Amazon Digital Services,  Inc.",1933,,,0.99
+635,Cold Sassy Tree, fiction,,Olive Ann Burns,Random House LLC,1984,,,7.99
+636,The Glass Menagerie,nonfiction,,Tennessee Williams,"Amazon Digital Services,  Inc.",1945,,,0.99
+637,L'amica geniale,nonfiction,,"Elena Ferrante, Ann Goldstein",Random House LLC,2011,,,7.67
+638,"The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich", fiction,,Timothy Ferriss,"Amazon Digital Services,  Inc.",2007,,,2.99
+639,The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams & Reaching Your Destiny, fiction,,Robin S. Sharma,"Amazon Digital Services,  Inc.",1996,,,0.99
+640,Rules of Civility, fiction,,Amor Towles,Penguin Group (USA) LLC,2011,,,5.99
+641,Ringworld, fiction,,Larry Niven,"Amazon Digital Services,  Inc.",1970,,,0.99
+642,Between Shades of Gray, fiction,,Ruta Sepetys,"Amazon Digital Services,  Inc.",2011,,,1.99
+643,Frindle, fiction,,"Andrew Clements, Brian Selznick",Macmillan,1996,,,5.99
+644,Dog Days, fiction,,Jeff Kinney,"Amazon Digital Services,  Inc.",2009,,,3.99
+645,The Round House, fiction,,Louise Erdrich,"Amazon Digital Services,  Inc.",2012,,,2.99
+646,A Wind in the Door, fiction,,Madeleine L'Engle,"Amazon Digital Services,  Inc.",1973,,,2.99
+647,Free Four: Tobias Tells the Divergent Story,nonfiction,,Veronica Roth,Hachette Book Group,2012,,,9.99
+648,A Little Life, fiction,,Hanya Yanagihara,"Amazon Digital Services,  Inc.",2015,,,2.99
+649,"Y: The Last Man, Vol. 1: Unmanned", fiction,,"Brian K. Vaughan, Pia Guerra, JosÃ© MarzÃ¡n Jr.","Amazon Digital Services,  Inc.",2003,,,0.99
+650,The Alloy of Law, fiction,,Brandon Sanderson,"Amazon Digital Services,  Inc.",2011,,,4.99
+651,Dead Reckoning,nonfiction,,Charlaine Harris,"Amazon Digital Services,  Inc.",2011,,,0.99
+652,The Accidental Tourist, fiction,,"Anne Tyler, Jennifer Bassett","Amazon Digital Services,  Inc.",1985,,,6.59
+653,Aristotle and Dante Discover the Secrets of the Universe,fiction,,Benjamin Alire SÃ¡enz,"Amazon Digital Services,  Inc.",2012,,,9.1
+654,The Invisible Man, fiction,,H.G. Wells,Macmillan,1897,,,0.99
+655,ä¸–ç•Œã®çµ‚ã‚Šã¨ãƒãƒ¼ãƒ‰ãƒœã‚¤ãƒ«ãƒ‰ãƒ»ãƒ¯ãƒ³ãƒ€ãƒ¼ãƒ©ãƒ³ãƒ‰ [Sekai no owari to hÄdoboirudo wandÄrando], fiction,,"Haruki Murakami, Alfred Birnbaum","Amazon Digital Services,  Inc.",1985,,,0.99
+656,Na margem do rio Piedra eu sentei e chorei, fiction,,"Paulo Coelho, Alan R. Clarke",Random House LLC,1994,,,7.69
+657,Der Schweizerische Robinson, fiction,,"Johann David Wyss, Scott McKowen, Arthur Pober","Amazon Digital Services,  Inc.",1812,,,2.99
+658,Four Past Midnight,nonfiction,,Stephen King,HarperCollins Publishers,1990,,,5.38
+659,The Marriage Bargain, fiction,,Jennifer Probst,Random House LLC,2012,,,10.99
+660,Anne of Avonlea, fiction,,L.M. Montgomery,"Amazon Digital Services,  Inc.",1909,,,0.99
+661,The Little Engine That Could, fiction,,"Watty Piper, Doris Hauman, George Hauman","Amazon Digital Services,  Inc.",1930,,,4.99
+662,We Are All Completely Beside Ourselves, fiction,,Karen Joy Fowler,"Amazon Digital Services,  Inc.",2013,,,2.99
+663,Children of the Mind, fiction,,Orson Scott Card,"Amazon Digital Services,  Inc.",1996,,,8.59
+664,Ulysses, fiction,,James Joyce,"Amazon Digital Services,  Inc.",1922,,,0.99
+665,Someone Like You,nonfiction,,Sarah Dessen,Simon and Schuster Digital Sales Inc,1998,,,2.99
+666,Moloka'i,nonfiction,,Alan Brennert,HarperCollins Christian Publishing,2003,,,7.99
+667,The Witching Hour,nonfiction,,Anne Rice,"Amazon Digital Services,  Inc.",1990,,,3.03
+668,This Present Darkness, fiction,,Frank E. Peretti,"Amazon Digital Services,  Inc.",1986,,,2.99
+669,The Coincidence of Callie & Kayden, fiction,,Jessica Sorensen,"Amazon Digital Services,  Inc.",2012,,,0.99
+670,Fates and Furies, fiction,,Lauren Groff,HarperCollins Publishers,2015,,,7.31
+671,Summer Sisters, fiction,,Judy Blume,Penguin Group (USA) LLC,1998,,,7.31
+672,Stuart Little, fiction,,"E.B. White, Garth Williams","Amazon Digital Services,  Inc.",1945,,,2.99
+673,The Foundation Trilogy,fiction,,Isaac Asimov,HarperCollins Publishers,1953,,,8.99
+674,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory", fiction,,Brian Greene,"Amazon Digital Services,  Inc.",1999,,,2.99
+675,The Austere Academy, fiction,,"Lemony Snicket, Brett Helquist","Amazon Digital Services,  Inc.",2000,,,0.99
+676,Seven Up, fiction,,Janet Evanovich,HarperCollins Publishers,2001,,,11.19
+677,The Awakening, fiction,,Kelley Armstrong,Simon and Schuster Digital Sales Inc,2009,,,6.45
+678,Stellaluna, fiction,,Janell Cannon,"Amazon Digital Services,  Inc.",1993,,,0.99
+679,Before They Are Hanged, fiction,,Joe Abercrombie,Random House LLC,2007,,,0.99
+680,Loving Frank, fiction,,Nancy Horan,Hachette Book Group,2007,,,6.99
+681,Hard Eight,nonfiction,,"Janet Evanovich, Lorelei King",Random House LLC,2002,,,8.99
+682,The Vile Village, fiction,,"Lemony Snicket, Brett Helquist",Penguin Group (USA) LLC,2001,,,5.99
+683,Sybil,nonfiction,,Flora Rheta Schreiber,HarperCollins Publishing,1973,,,4.26
+684,Cosmos,nonfiction,,Carl Sagan,Penguin Group (USA) LLC,1980,,,9.59
+685,Haunted: A Novel of Stories,fiction,,Chuck Palahniuk,Simon and Schuster Digital Sales Inc,2005,,,1.99
+686,The Shell Seekers, fiction,,Rosamunde Pilcher,"Amazon Digital Services,  Inc.",1987,,,4.99
+687,What Is the What: The Autobiography of Valentino Achak Deng, fiction,,Dave Eggers,Penguin Group (USA) LLC,2006,,,14.24
+688,CrÃ³nica de una muerte anunciada, fiction,,"Gabriel GarcÃ­a MÃ¡rquez, Gregory Rabassa",Simon and Schuster Digital Sales Inc,1981,,,9.56
+689,A Scandal in Bohemia,nonfiction,,"Ronald Holt, Arthur Conan Doyle","Amazon Digital Services,  Inc.",1891,,,2.99
+690,The Lowland, fiction,,Jhumpa Lahiri,"Amazon Digital Services,  Inc.",2013,,,3.99
+691,The Ruins of Gorlan,nonfiction,,John Flanagan,Random House LLC,2004,,,6.99
+692,Wintergirls, fiction,,Laurie Halse Anderson,"Amazon Digital Services,  Inc.",2009,,,2.99
+693,The Brethren,fiction,,John Grisham,Penguin Group (USA) LLC,2000,,,7.99
+694,Assassin's Quest, fiction,,Robin Hobb,"Amazon Digital Services,  Inc.",1997,,,3.99
+695,Rosemary's Baby, fiction,,Ira Levin,"Amazon Digital Services,  Inc.",1967,,,4.99
+696,The Talisman,nonfiction,,"Stephen King, Peter Straub","Amazon Digital Services,  Inc.",1984,,,1.99
+697,The Path of Daggers, fiction,,Robert Jordan,"Amazon Digital Services,  Inc.",1998,,,1.99
+698,The Reckoning, fiction,,Kelley Armstrong,"Amazon Digital Services,  Inc.",2010,,,3.99
+699,"Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity",fiction,,Katherine Boo,Random House LLC,2012,,,7.99
+700,Mary Poppins, fiction,,"P.L. Travers, Mary Shepard","Amazon Digital Services,  Inc.",1934,,,2.99
+701,Red Seas Under Red Skies, fiction,,Scott Lynch,"Amazon Digital Services,  Inc.",2007,,,2.99
+702,The House on Mango Street, fiction,,Sandra Cisneros,"Amazon Digital Services,  Inc.",1984,,,0.99
+703,City of Thieves, fiction,,David Benioff,HarperCollins Publishers,2008,,,1.99
+704,Halfway to the Grave, fiction,,Jeaniene Frost,"Amazon Digital Services,  Inc.",2007,,,1.99
+705,The Twits, fiction,,"Roald Dahl, Quentin Blake",Random House LLC,1980,,,7.31
+706,Abhorsen,nonfiction,,Garth Nix,"Amazon Digital Services,  Inc.",2003,,,12.99
+707,The Beach House, fiction,,"James Patterson, Peter de Jonge","Amazon Digital Services,  Inc.",2002,,,3.99
+708,Eyes of the Dragon,nonfiction,,Stephen King,HarperCollins Publishers,1987,,,5.99
+709,Children of Dune, fiction,,Frank Herbert,"Amazon Digital Services,  Inc.",1976,,,0.99
+710,Leviathan Wakes,nonfiction,,James S.A. Corey,HarperCollins Publishers,2011,,,14.44
+711,Queen of Shadows, fiction,,Sarah J. Maas,Macmillan,2015,,,2.99
+712,Maus II : And Here My Troubles Began ,nonfiction,,Art Spiegelman,Hachette Book Group,1991,,,4.99
+713,The Snowy Day, fiction,,Ezra Jack Keats,"Amazon Digital Services,  Inc.",1962,,,10
+714,To the Nines, fiction,,Janet Evanovich,Penguin Group (USA) LLC,2003,,,11.99
+715,Where We Belong,nonfiction,,Emily Giffin,"Amazon Digital Services,  Inc.",2012,,,0.99
+716,The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus, fiction,,Richard   Preston,"Amazon Digital Services,  Inc.",1994,,,2.99
+717,ã‚¹ãƒ—ãƒ¼ãƒˆãƒ‹ã‚¯ã®æ‹äºº [SupÅ«toniku no Koibito], fiction,,"Haruki Murakami, Philip Gabriel",Penguin Group (USA) LLC,1999,,,9.27
+718,The Signature of All Things,nonfiction,,Elizabeth Gilbert,"Amazon Digital Services,  Inc.",2012,,,1.99
+719,"Eats, Shoots and Leaves", fiction,,Lynne Truss,"Amazon Digital Services,  Inc.",2003,,,3.99
+720,Dead Witch Walking,nonfiction,,Kim Harrison,"Amazon Digital Services,  Inc.",2004,,,2.99
+721,An Echo in the Bone, fiction,,Diana Gabaldon,Simon and Schuster Digital Sales Inc,2009,,,11.89
+722,Unearthly, fiction,,Cynthia Hand,Hachette Book Group,2011,,,1.99
+723,The Case for Christ, fiction,,Lee Strobel,Macmillan,1988,,,6.83
+724,Knife of Dreams, fiction,,Robert Jordan,"Amazon Digital Services,  Inc.",2005,,,2.99
+725,Hoot, fiction,,Carl Hiaasen,Penguin Group (USA) LLC,2002,,,4.99
+726,Ã†neis, fiction,,"Virgil, Robert Fitzgerald","Amazon Digital Services,  Inc.",-17,,,0.99
+727,This is How You Lose Her,nonfiction,,Junot DÃ­az,"Amazon Digital Services,  Inc.",2012,,,5.38
+728,ã‚¢ãƒ•ã‚¿ãƒ¼ãƒ€ãƒ¼ã‚¯ [AfutÄ dÄku], fiction,,"Haruki Murakami, Jay Rubin","Amazon Digital Services,  Inc.",2004,,,5.99
+729,Ishmael: An Adventure of the Mind and Spirit, fiction,,Daniel Quinn,Random House LLC,1992,,,7.69
+730,It's Not Summer Without You, fiction,,Jenny Han,"Amazon Digital Services,  Inc.",2010,,,2.99
+731,Pushing the Limits, fiction,,Katie McGarry,"Amazon Digital Services,  Inc.",2012,,,3.99
+732,Quidditch Through the Ages, fiction,,"Kennilworthy Whisp, J.K. Rowling",Random House LLC,2001,,,0.99
+733,Miss Nelson Is Missing!, fiction,,"Harry Allard, James  Marshall",Penguin Group (USA) LLC,1977,,,9.99
+734,The Long Walk,nonfiction,,"Richard Bachman, Stephen King",Hachette Book Group,1979,,,3.99
+735,The Ersatz Elevator,nonfiction,,"Lemony Snicket, Brett Helquist",Random House LLC,2001,,,1.99
+736,Messenger , fiction,,Lois Lowry,"Amazon Digital Services,  Inc.",2004,,,3.99
+737,Lover Revealed, fiction,,J.R. Ward,"Amazon Digital Services,  Inc.",2007,,,5.99
+738,'Salem's Lot The Illustrated Edition, fiction,,"Stephen King, Jerry N. Uelsmann",Hachette Book Group,2005,,,6.64
+739,The Mysterious Benedict Society, fiction,,"Trenton Lee Stewart, Carson Ellis","Amazon Digital Services,  Inc.",2007,,,0.99
+740,"Never Too Far (Too Far, #2)", fiction,,Abbi Glines,"Amazon Digital Services,  Inc.",2013,,,0.99
+741,State of Fear, fiction,,Michael Crichton,"Amazon Digital Services,  Inc.",2004,,,0.99
+742,The Statistical Probability of Love at First Sight, fiction,,Jennifer E. Smith,"Amazon Digital Services,  Inc.",2012,,,0.99
+743,The Golem's Eye,nonfiction,,Jonathan Stroud,Simon and Schuster Digital Sales Inc,2004,,,6.99
+744,Still Life with Woodpecker, fiction,,Tom Robbins,"Amazon Digital Services,  Inc.",1980,,,2.99
+745,Those Who Save Us, fiction,,Jenna Blum,"Amazon Digital Services,  Inc.",2004,,,0.99
+746,The Broker, fiction,,John Grisham,"Amazon Digital Services,  Inc.",2005,,,0.99
+747,Across the Universe, fiction,,Beth Revis,"Amazon Digital Services,  Inc.",2011,,,3.99
+748,"The Road Less Traveled:  A New Psychology of Love, Traditional Values, and Spiritual Growth",nonfiction,,M. Scott Peck,"Amazon Digital Services,  Inc.",1978,,,8.99
+749,Blood Rites,nonfiction,,Jim Butcher,"Amazon Digital Services,  Inc.",2004,,,8.98
+750,The Boxcar Children, fiction,,"Gertrude Chandler Warner, L. Kate Deal",Simon and Schuster Digital Sales Inc,1942,,,12.99
+751,The Silent Wife,nonfiction,,A.S.A. Harrison,"Amazon Digital Services,  Inc.",2013,,,6.76
+752,How to Be a Woman, fiction,,Caitlin Moran,"Amazon Digital Services,  Inc.",2011,,,2.99
+753,A Court of Mist and Fury, fiction,,Sarah J. Maas,Simon and Schuster Digital Sales Inc,2016,,,9.99
+754,Life, fiction,,Keith Richards,Random House LLC,2010,,,7.99
+755,Unaccustomed Earth, fiction,,Jhumpa Lahiri,"Amazon Digital Services,  Inc.",2008,,,3.99
+756,The Pilot's Wife, fiction,,Anita Shreve,Simon and Schuster Digital Sales Inc,1998,,,11.89
+757,White Noise, fiction,,Don DeLillo,"Amazon Digital Services,  Inc.",1985,,,4.99
+758,"Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest", fiction,,Stephen E. Ambrose,"Amazon Digital Services,  Inc.",1992,,,2.99
+759,On the Origin of Species by Means of Natural Selection or the Preservation of Favoured Races in the Struggle for Life, fiction,,Charles Darwin,HarperCollins Publishers,1859,,,8.99
+760,Blankets, fiction,,Craig Thompson,"Amazon Digital Services,  Inc.",2003,,,2.99
+761,The Story of Edgar Sawtelle,nonfiction,,David Wroblewski,"Amazon Digital Services,  Inc.",2008,,,2.99
+762,Drowning Ruth, fiction,,Christina Schwarz,"Amazon Digital Services,  Inc.",2000,,,4.99
+763,Post Office,nonfiction,,Charles Bukowski,HarperCollins Publishers,1971,,,2.99
+764,All the Pretty Horses, fiction,,Cormac McCarthy,"Amazon Digital Services,  Inc.",1992,,,3.99
+765,"Sherlock Holmes: The Complete Novels and Stories, Vol 2",nonfiction,,"Arthur Conan Doyle, Kyle Freeman",Random House LLC,1914,,,10.99
+766,"One Piece, Volume 01", fiction,,"EiichirÅ Oda, Andy Nakatani","Amazon Digital Services,  Inc.",1997,,,3.99
+767,The Last Unicorn, fiction,,Peter S. Beagle,"Amazon Digital Services,  Inc.",1968,,,2.99
+768,Magyk, fiction,,Angie Sage,"Amazon Digital Services,  Inc.",2005,,,2.99
+769,Fever 1793, fiction,,Laurie Halse Anderson,"Amazon Digital Services,  Inc.",2000,,,3.99
+770,The Likeness, fiction,,Tana French,Penguin Group (USA) LLC,2008,,,6.99
+771,Dead Wake: The Last Crossing of the Lusitania, fiction,,Erik Larson,Penguin Group (USA) LLC,2015,,,8.09
+772,The Jungle Book,fiction,,Rudyard Kipling,"Amazon Digital Services,  Inc.",1894,,,0.99
+773,I Am Pilgrim, fiction,,Terry Hayes,"Amazon Digital Services,  Inc.",2013,,,4.99
+774,Howl and Other Poems ,nonfiction,,"Allen Ginsberg, William Carlos Williams",HarperCollins Publishers,1956,,,11.04
+775,Don't Sweat the Small Stuff, fiction,,Richard Carlson,Random House LLC,1997,,,7.69
+776,Go the Fuck to Sleep, fiction,,"Adam Mansbach, Ricardo CortÃ©s","Amazon Digital Services,  Inc.",2011,,,0.99
+777,Mostly Harmless,nonfiction,,Douglas Adams,Simon and Schuster Digital Sales Inc,1992,,,4.99
+778,Benjamin Franklin: An American Life, fiction,,Walter Isaacson,Macmillan,2003,,,4.99
+779,The Tiger's Wife, fiction,,TÃ©a Obreht,"Amazon Digital Services,  Inc.",2011,,,0.99
+780,Poison Study, fiction,,Maria V. Snyder,"Amazon Digital Services,  Inc.",2005,,,2.99
+781,Lover Unbound,fiction,,J.R. Ward,"Amazon Digital Services,  Inc.",2007,,,7.99
+782,Going Postal,fiction,,Terry Pratchett,Penguin Group (USA) LLC,2004,,,11.99
+783,The Book of Mormon, fiction,,"Anonymous, Joseph Smith Jr.",Random House LLC,1830,,,11.99
+784,The Mist,nonfiction,,Stephen King,"Amazon Digital Services,  Inc.",1980,,,2.99
+785,Dead Beat, fiction,,Jim Butcher,"Amazon Digital Services,  Inc.",2005,,,4.99
+786,Golden Son, fiction,,Pierce Brown,"Amazon Digital Services,  Inc.",2015,,,0.99
+787,Night Watch,nonfiction,,Terry Pratchett,"Amazon Digital Services,  Inc.",2002,,,7.99
+788,The Light Fantastic,nonfiction,,Terry Pratchett,"Amazon Digital Services,  Inc.",1986,,,0.99
+789,What the Dog Saw and Other Adventures, fiction,,Malcolm Gladwell,Random House LLC,2009,,,7.69
+790,Pretty Girls, fiction,,Karin Slaughter,"Amazon Digital Services,  Inc.",2015,,,1.99
+791,Last Argument of Kings, fiction,,Joe Abercrombie,Macmillan,2008,,,4.99
+792,Revival, fiction,,Stephen King,"Amazon Digital Services,  Inc.",2014,,,4.99
+793,Horton Hears a Who!, fiction,,Dr. Seuss,"Amazon Digital Services,  Inc.",1954,,,0.99
+794,Lirael, fiction,,Garth Nix,Penguin Group (USA) LLC,2001,,,7.69
+795,School's Out Forever,fiction,,James Patterson,"Amazon Digital Services,  Inc.",2006,,,2.99
+796,é»’åŸ·äº‹ I [Kuroshitsuji I],nonfiction,,"Yana Toboso, Tomo Kimura",Penguin Group (USA) LLC,2007,,,11.99
+797,Winter,nonfiction,,Marissa Meyer,"Amazon Digital Services,  Inc.",2015,,,3.49
+798,The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror , fiction,,"Robert Louis Stevenson, Robert Mighall",Random House LLC,1886,,,4.99
+799,The Painted Man, fiction,,Peter V. Brett,"Amazon Digital Services,  Inc.",2008,,,3.99
+800,One Shot, fiction,,Lee Child,Simon and Schuster Digital Sales Inc,2005,,,2.99
+801,The Serpent's Shadow, fiction,,Rick Riordan,"Amazon Digital Services,  Inc.",2012,,,3.03
+802,Duma Key, fiction,,Stephen King,Macmillan,2008,,,7.41
+803,The Shifting Fog, fiction,,Kate Morton,"Amazon Digital Services,  Inc.",2006,,,2
+804,Proven Guilty, fiction,,Jim Butcher,Simon and Schuster Digital Sales Inc,2006,,,6.83
+805,Ð—Ð°Ð¿Ð¸ÑÐºÐ¸ Ð¸Ð· Ð¿Ð¾Ð´Ð¿Ð¾Ð»ÑŒÑ, fiction,,"Fyodor Dostoyevsky, Andrew R. MacAndrew, Ben Marcus",Random House LLC,1864,,,7.99
+806,The Heart is a Lonely Hunter, fiction,,Carson McCullers,"Amazon Digital Services,  Inc.",1940,,,3.99
+807,The Infinite Sea, fiction,,Rick Yancey,"Amazon Digital Services,  Inc.",2014,,,3.99
+808,The Once and Future King,nonfiction,,T.H. White,Macmillan,1958,,,6.55
+809,Small Gods, fiction,,Terry Pratchett,HarperCollins Publishers,1992,,,10.8
+810,"Bud, Not Buddy", fiction,,Christopher Paul Curtis,"Amazon Digital Services,  Inc.",1999,,,3.82
+811,Predictably Irrational: The Hidden Forces that Shape Our Decisions, fiction,,Dan Ariely,"Amazon Digital Services,  Inc.",2007,,,4.99
+812,Ø§Ù„ÙÙŠÙ„ Ø§Ù„Ø£Ø²Ø±Ù‚,nonfiction,,Ø£Ø­Ù…Ø¯ Ù…Ø±Ø§Ø¯,"Amazon Digital Services,  Inc.",2012,,,9.99
+813,The Indian in the Cupboard, fiction,,Lynne Reid Banks,"Amazon Digital Services,  Inc.",1980,,,3.99
+814,A Memory of Light, fiction,,"Robert Jordan, Brandon Sanderson","Amazon Digital Services,  Inc.",2012,,,3.99
+815,Me and Earl and the Dying Girl,nonfiction,,Jesse Andrews,Random House LLC,2012,,,10.99
+816,The Ugly Truth,nonfiction,,Jeff Kinney,"Amazon Digital Services,  Inc.",2010,,,0.99
+817,"Janet Evanovich Three and Four Two-Book Set (Stephanie Plum, #3-4)", fiction,,Janet Evanovich,HarperCollins Publishers,2002,,,1.5
+818,"The Surgeon of Crowthorne: a tale of murder, madness & the love of words", fiction,,Simon Winchester,Simon and Schuster Digital Sales Inc,1998,,,3.99
+819,2nd Chance, fiction,,"James Patterson, Andrew Gross",HarperCollins Publishers,2002,,,12.29
+820,The Complete Maus,nonfiction,,Art Spiegelman,"Amazon Digital Services,  Inc.",1986,,,0.99
+821,The Eyre Affair,nonfiction,,Jasper Fforde,"Amazon Digital Services,  Inc.",2001,,,0.99
+822,Anne Rice's The Vampire Lestat: The Graphic Novel, fiction,,"Faye Perozich, Anne Rice, John Bolton, Daerick GrÃ¶ss","Amazon Digital Services,  Inc.",1989,,,0.99
+823,The Art of Happiness: A Handbook for Living,nonfiction,,"Dalai Lama XIV, Howard C. Cutler",Random House LLC,1998,,,11.75
+824,The Bone Clocks, fiction,,David Mitchell,Random House LLC,2014,,,6.92
+825,Black and Blue, fiction,,Anna Quindlen,"Amazon Digital Services,  Inc.",1998,,,3.99
+826,The Last Juror,nonfiction,,John Grisham,Penguin Group (USA) LLC,2004,,,8.59
+827,Diary, fiction,,Chuck Palahniuk,Hachette Book Group,2003,,,8.99
+828,Eleven on Top, fiction,,Janet Evanovich,Penguin Group (USA) LLC,2005,,,7.49
+829,Tintenblut, fiction,,"Cornelia Funke, Anthea Bell","Amazon Digital Services,  Inc.",2005,,,6.99
+830,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto", fiction,,Chuck Klosterman,"Amazon Digital Services,  Inc.",2003,,,0.99
+831,Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder,nonfiction,,Evelyn Waugh,"Amazon Digital Services,  Inc.",1945,,,1.99
+832,White Night,fiction,,Jim Butcher,"Amazon Digital Services,  Inc.",2007,,,0.99
+833,The Miniaturist, fiction,,Jessie Burton,HarperCollins Publishers,2014,,,1.99
+834,Dragons of Autumn Twilight,nonfiction,,"Margaret Weis, Tracy Hickman",Simon and Schuster Digital Sales Inc,1984,,,8.78
+835,The Lost Colony,nonfiction,,Eoin Colfer,"Amazon Digital Services,  Inc.",2006,,,2.5
+836,Extras, fiction,,Scott Westerfeld,"Amazon Digital Services,  Inc.",2006,,,0.99
+837,The Burning Bridge,nonfiction,,John Flanagan,Macmillan,2005,,,7.49
+838,The Book of Life, fiction,,Deborah Harkness,"Amazon Digital Services,  Inc.",2014,,,2.99
+839,The Artist's Way: A Spiritual Path to Higher Creativity, fiction,,Julia Cameron,"Amazon Digital Services,  Inc.",1992,,,5.99
+840,The Stinky Cheese Man and Other Fairly Stupid Tales,nonfiction,,"Jon Scieszka, Lane Smith","Amazon Digital Services,  Inc.",1992,,,2.99
+841,Horns,nonfiction,,Joe Hill,Hachette Book Group,2009,,,2.99
+842,Catherine the Great: Portrait of a Woman, fiction,,Robert K. Massie,"Amazon Digital Services,  Inc.",2011,,,0.99
+843,The Year of the Flood, fiction,,Margaret Atwood,Simon and Schuster Digital Sales Inc,2009,,,7.99
+844,Winter Garden, fiction,,Kristin Hannah,"Amazon Digital Services,  Inc.",2009,,,2.99
+845,The King of Torts,nonfiction,,John Grisham,HarperCollins Publishers,2003,,,5.99
+846,Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10, fiction,,"Marcus Luttrell, Patrick Robinson","Amazon Digital Services,  Inc.",2006,,,3.99
+847,The 3 Mistakes of My Life, fiction,,Chetan Bhagat,Random House LLC,2008,,,7.99
+848,The Murder of Roger Ackroyd,nonfiction,,Agatha Christie,"Amazon Digital Services,  Inc.",1926,,,7.52
+849,Native Son , fiction,,Richard Wright,"Amazon Digital Services,  Inc.",1940,,,2.99
+850,Shadow's Edge, fiction,,Brent Weeks,Random House LLC,2008,,,11.84
+851,Under the Never Sky, fiction,,Veronica Rossi,"Amazon Digital Services,  Inc.",2011,,,3.99
+852,True Believer, fiction,,Nicholas Sparks,"Amazon Digital Services,  Inc.",2003,,,4.99
+853,The Lean Startupâ€Ž, fiction,,Eric Ries,"Amazon Digital Services,  Inc.",2011,,,0.99
+854,The Golden Lily, fiction,,Richelle Mead,Penguin Group (USA) LLC,2012,,,10.99
+855,Chasing Harry Winston, fiction,,Lauren Weisberger,Random House LLC,2008,,,4.99
+856,Magician's Gambit, fiction,,David Eddings,"Amazon Digital Services,  Inc.",1983,,,2.99
+857,The Rise and Fall of the Third Reich: A History of Nazi Germany, fiction,,William L. Shirer,HarperCollins Publishers,1960,,,2.99
+858,A Long Way Down,nonfiction,,Nick Hornby,Hachette Book Group,2005,,,3.99
+859,Out from Boneville, fiction,,"Jeff Smith, Steve Hamaker","Amazon Digital Services,  Inc.",1993,,,5.99
+860,Rose Madder, fiction,,Stephen King,Simon and Schuster Digital Sales Inc,1995,,,1.99
+861,"Die Trying (Jack Reacher, #2)", fiction,,Lee Child,Macmillan,1998,,,2.99
+862,Beautiful Chaos, fiction,,"Kami Garcia, Margaret Stohl, Paz Pruneda",Hachette Book Group,2011,,,1.99
+863,Keeping Faith, fiction,,Jodi Picoult,"Amazon Digital Services,  Inc.",1999,,,0.99
+864,Heart-Shaped Box, fiction,,Joe Hill,"Amazon Digital Services,  Inc.",2007,,,2.99
+865,Cabin Fever,nonfiction,,Jeff Kinney,Penguin Group (USA) LLC,2010,,,11.99
+866,Everyone Worth Knowing, fiction,,Lauren Weisberger,"Amazon Digital Services,  Inc.",2005,,,0.99
+867,Redwall, fiction,,Brian Jacques,"Amazon Digital Services,  Inc.",1986,,,2.99
+868,Manifest der Kommunistischen Partei, fiction,,"Karl Marx, Friedrich Engels, Gareth Stedman Jones","Amazon Digital Services,  Inc.",1848,,,2.99
+869,The Woman in Cabin 10,nonfiction,,Ruth Ware,"Amazon Digital Services,  Inc.",2016,,,0.99
+870,The Last of the Mohicans: A Narrative of 1757, fiction,,James Fenimore Cooper,"Amazon Digital Services,  Inc.",1826,,,0.99
+871,Sophie's Choice,nonfiction,,William Styron,"Amazon Digital Services,  Inc.",1979,,,1.99
+872,Shopaholic and Sister, fiction,,Sophie Kinsella,"Amazon Digital Services,  Inc.",2004,,,2.99
+873,The Iron Daughter, fiction,,Julie Kagawa,"Amazon Digital Services,  Inc.",2010,,,2.99
+874,The Prayer of Jabez:  Breaking Through to the Blessed Life,nonfiction,,Bruce H. Wilkinson,"Amazon Digital Services,  Inc.",2000,,,8.1
+875,The Age of Miracles, fiction,,Karen Thompson Walker,Random House LLC,2012,,,11.84
+876,Have a Little Faith: A True Story,nonfiction,,Mitch Albom,Hachette Book Group,2009,,,1.99
+877,My Life in France, fiction,,"Julia Child, Alex Prud'Homme",Penguin Group (USA) LLC,2006,,,11.99
+878,The Rosie Effect, fiction,,Graeme Simsion,Macmillan,2014,,,11.04
+879,The Secret of the Nagas., fiction,,Amish Tripathi,"Amazon Digital Services,  Inc.",2011,,,0.99
+880,Ham on Rye, fiction,,Charles Bukowski,"Amazon Digital Services,  Inc.",1982,,,1.77
+881,Flipped,nonfiction,,Wendelin Van Draanen,"Amazon Digital Services,  Inc.",2001,,,0.99
+882,Emotional Intelligence 2.0, fiction,,"Travis Bradberry, Jean Greaves, Patrick Lencioni","Amazon Digital Services,  Inc.",2003,,,0.99
+883,Make Way for Ducklings,nonfiction,,Robert McCloskey,HarperCollins Publishers,1941,,,5.74
+884,Relic, fiction,,"Douglas Preston, Lincoln Child",Hachette Book Group,1995,,,7.73
+885,Notes from a Small Island, fiction,,Bill Bryson,"Amazon Digital Services,  Inc.",1995,,,3.99
+886,Small Favor,nonfiction,,Jim Butcher,Random House LLC,2008,,,10.99
+887,The Walking Dead Compendium Volume 1, fiction,,Robert Kirkman,"Amazon Digital Services,  Inc.",2009,,,2.99
+888,Princess Academy, fiction,,Shannon Hale,Simon and Schuster Digital Sales Inc,2005,,,12.74
+889,"Everything, Everything", fiction,,"Nicola Yoon, David Yoon","Amazon Digital Services,  Inc.",2015,,,2.99
+890,Pygmalion, fiction,,George Bernard Shaw,"Amazon Digital Services,  Inc.",1912,,,2.99
+891,Flight Behavior, fiction,,Barbara Kingsolver,"Amazon Digital Services,  Inc.",2012,,,0.99
+892,Grip of the Shadow Plague, fiction,,Brandon Mull,"Amazon Digital Services,  Inc.",2008,,,4.99
+893,Bridget Jones: The Edge of Reason,nonfiction,,Helen Fielding,"Amazon Digital Services,  Inc.",1999,,,9.99
+894,Captain Corelli's Mandolin, fiction,,Louis de BerniÃ¨res,"Amazon Digital Services,  Inc.",1994,,,0.99
+895,At First Sight, fiction,,Nicholas Sparks,"Amazon Digital Services,  Inc.",2004,,,0.99
+896,Down Under, fiction,,Bill Bryson,"Amazon Digital Services,  Inc.",2000,,,3.99
+897,The Memoirs of Sherlock Holmes,nonfiction,,Arthur Conan Doyle,HarperCollins Publishers,1894,,,11.19
+898,The Orphan Master's Son, fiction,,Adam Johnson,Macmillan,2012,,,0.99
+899,Enchanters' End Game, fiction,,David Eddings,"Amazon Digital Services,  Inc.",1984,,,3.99
+900,Persepolis,nonfiction,,"Marjane Satrapi, Mattias Ripa, Blake Ferris, Anjali Singh","Amazon Digital Services,  Inc.",2003,,,0.99
+901,The Chosen,fiction,,Chaim Potok,"Amazon Digital Services,  Inc.",1967,,,1.99
+902,The Agony and the Ecstasy: A Biographical Novel of Michelangelo, fiction,,"Irving Stone, ×©×ž×•××œ ×©× ×™×¦×¨","Amazon Digital Services,  Inc.",1958,,,3.99
+903,El juego del Ã¡ngel, fiction,,"Carlos Ruiz ZafÃ³n, Lucia Graves",HarperCollins Publishers,2008,,,12.29
+904,Where Rainbows End,nonfiction,,Cecelia Ahern,Random House LLC,2004,,,10.99
+905,Amelia Bedelia, fiction,,"Peggy Parish, Fritz Siebel",Penguin Group (USA) LLC,1963,,,7.99
+906,This Man, fiction,,Jodi Ellen Malpas,"Amazon Digital Services,  Inc.",2012,,,0.99
+907,A Dog's Purpose , fiction,,W. Bruce Cameron,"Amazon Digital Services,  Inc.",2010,,,2.99
+908,An Ember in the Ashes, fiction,,Sabaa Tahir,HarperCollins Publishers,2015,,,5.49
+909,"Lover Enshrined, part one", fiction,,J.R. Ward,Random House LLC,2008,,,8.99
+910,The Golem and the Jinni, fiction,,Helene Wecker,"Amazon Digital Services,  Inc.",2013,,,3.99
+911,Ø§Ù„Ø£Ø³ÙˆØ¯ ÙŠÙ„ÙŠÙ‚ Ø¨Ùƒ,nonfiction,,"Ø£Ø­Ù„Ø§Ù… Ù…Ø³ØªØºØ§Ù†Ù…ÙŠ, Ahlam Mosteghanemi",Simon and Schuster Digital Sales Inc,2012,,,10.91
+912,The Slippery Slope, fiction,,"Lemony Snicket, Brett Helquist",Penguin Group (USA) LLC,2003,,,8.99
+913,Bleak House, fiction,,"Charles Dickens, Nicola Bradbury, Hablot Knight Browne",HarperCollins Publishers,1853,,,8.99
+914,"Caps for sale: a tale of a peddler, some monkeys and their monkey business", fiction,,Esphyr Slobodkina,"Amazon Digital Services,  Inc.",1938,,,4.99
+915,Furies of Calderon , fiction,,Jim Butcher,"Amazon Digital Services,  Inc.",2004,,,0.99
+916,Alanna: The First Adventure, fiction,,Tamora Pierce,Penguin Group (USA) LLC,1983,,,16.98
+917,Her Fearful Symmetry,nonfiction,,Audrey Niffenegger,HarperCollins Publishers,2009,,,3.79
+918,The Boston Girl, fiction,,Anita Diamant,"Amazon Digital Services,  Inc.",2014,,,4.99
+919,The Fall of Hyperion,nonfiction,,Dan Simmons,Simon and Schuster Digital Sales Inc,1990,,,5.83
+920,The Black Dahlia, fiction,,James Ellroy,Random House LLC,1987,,,9.99
+921,"Through the Looking-Glass, and What Alice Found There",fiction,,"Lewis Carroll, John Tenniel, Peter Glassman",Simon and Schuster Digital Sales Inc,1871,,,1.99
+922,Wild Swans: Three Daughters of China,nonfiction,,Jung Chang,HarperCollins Christian Publishing,1991,,,3.99
+923,"Go, Dog. Go!",fiction,,P.D. Eastman,Penguin Group (USA) LLC,1961,,,10.65
+924,Finders Keepers,fiction,,Stephen King,"Amazon Digital Services,  Inc.",2015,,,0.99
+925,The Strain, fiction,,"Guillermo del Toro, Chuck Hogan","Amazon Digital Services,  Inc.",2009,,,0.99
+926,The Complete Poems of Emily Dickinson, fiction,,"Emily Dickinson, Thomas H. Johnson","Amazon Digital Services,  Inc.",1890,,,4.99
+927,Old Yeller, fiction,,Fred Gipson,Macmillan,1956,,,13.78
+928,Born Standing Up: A Comic's Life,nonfiction,,Steve Martin,"Amazon Digital Services,  Inc.",2007,,,0.99
+929,PostSecret: Extraordinary Confessions from Ordinary Lives,nonfiction,,Frank Warren,"Amazon Digital Services,  Inc.",2005,,,0.99
+930,A Storm of Swords: Part 2 Blood and Gold, fiction,,George R.R. Martin,"Amazon Digital Services,  Inc.",2000,,,2.99
+931,The Borrowers Afield, fiction,,"Mary Norton, Beth Krush, Joe Krush",Hachette Book Group,1952,,,6.48
+932,Hearts in Atlantis, fiction,,Stephen King,Macmillan,1999,,,1.99
+933,ç¾Šã‚’ã‚ãã‚‹å†’é™º [HitsujiwomegurubÅken],nonfiction,,"Haruki Murakami, Alfred Birnbaum",Simon and Schuster Digital Sales Inc,1982,,,8.81
+934,The Queen's Fool, fiction,,Philippa Gregory,Simon and Schuster Digital Sales Inc,2003,,,5.49
+935,Days of Blood & Starlight, fiction,,Laini Taylor,"Amazon Digital Services,  Inc.",2012,,,2.99
+936,Jitterbug Perfume, fiction,,Tom Robbins,"Amazon Digital Services,  Inc.",1984,,,2.99
+937,"The Battle for Skandia (Ranger's Apprentice, #4)", fiction,,John Flanagan,"Amazon Digital Services,  Inc.",2006,,,2.99
+938,The Darkest Minds,fiction,,Alexandra Bracken,Hachette Book Group,2012,,,5.69
+939,O Zahir, fiction,,"Paulo Coelho, Margaret Jull Costa","Amazon Digital Services,  Inc.",2005,,,3.99
+940,The Power of Positive Thinking, fiction,,Norman Vincent Peale,"Amazon Digital Services,  Inc.",1952,,,2.99
+941,"In a Dark, Dark Wood ", fiction,,Ruth Ware,"Amazon Digital Services,  Inc.",2015,,,0.99
+942,The House of Mirth, fiction,,"Edith Wharton, Nina Bawden","Amazon Digital Services,  Inc.",1905,,,2.99
+943,Fairy Tail 1, fiction,,"Hiro Mashima, William Flanagan","Amazon Digital Services,  Inc.",2006,,,3.99
+944,The Slow Regard of Silent Things, fiction,,"Patrick Rothfuss, Nate  Taylor","Amazon Digital Services,  Inc.",2014,,,3.99
+945,Twelve Years a Slave, fiction,,Solomon Northup,Random House LLC,1853,,,4.99
+946,"Lover Avenged, part one", fiction,,J.R. Ward,"Amazon Digital Services,  Inc.",2010,,,4.99
+947,In the Heart of the Sea: The Tragedy of the Whaleship Essex, fiction,,Nathaniel Philbrick,"Amazon Digital Services,  Inc.",1999,,,0.99
+948,Infidel, fiction,,Ayaan Hirsi Ali,"Amazon Digital Services,  Inc.",2006,,,0.99
+949,The Black Swan: The Impact of the Highly Improbable, fiction,,Nassim Nicholas Taleb,"Amazon Digital Services,  Inc.",2007,,,6.99
+950,The Twelve, fiction,,Justin Cronin,"Amazon Digital Services,  Inc.",2012,,,4.99
+951,ÐžÐ´Ð¸Ð½ Ð´ÐµÐ½ÑŒ Ð˜Ð²Ð°Ð½Ð° Ð”ÐµÐ½Ð¸ÑÐ¾Ð²Ð¸Ñ‡Ð°, fiction,,"Aleksandr Solzhenitsyn, H.T. Willetts",Hachette Book Group,1962,,,5.99
+952,The Diamond Age, fiction,,Neal Stephenson,Macmillan,1995,,,8.99
+953,A Canticle for Leibowitz, fiction,,Walter M. Miller Jr.,"Amazon Digital Services,  Inc.",1959,,,0.99
+954,á¼ˆÎ½Ï„Î¹Î³ÏŒÎ½Î·, fiction,,"Sophocles, J.E. Thomas","Amazon Digital Services,  Inc.",-441,,,0.99
+955,Brooklyn, fiction,,Colm TÃ³ibÃ­n,"Amazon Digital Services,  Inc.",2009,,,15.37
+956,Wither, fiction,,Lauren DeStefano,"Amazon Digital Services,  Inc.",2011,,,3.82
+957,Hillbilly Elegy. A Memoir of a Family and Culture in Crisis, fiction,,J.D. Vance,"Amazon Digital Services,  Inc.",2016,,,3.99
+958,Crossroads of Twilight, fiction,,Robert Jordan,"Amazon Digital Services,  Inc.",2003,,,3.99
+959,The Red Badge of Courage, fiction,,Stephen Crane,Penguin Group (USA) LLC,1871,,,10.99
+960,What If?: Serious Scientific Answers to Absurd Hypothetical Questions, fiction,,Randall Munroe,Penguin Group (USA) LLC,2014,,,10.65
+961,Gardens of the Moon, fiction,,Steven Erikson,"Amazon Digital Services,  Inc.",1999,,,3.99
+962,A Bruxa de Portobello, fiction,,Paulo Coelho,HarperCollins Publishers,2006,,,12.29
+963,A Swiftly Tilting Planet, fiction,,Madeleine L'Engle,"Amazon Digital Services,  Inc.",1978,,,2.99
+964,Gregor the Overlander, fiction,,Suzanne Collins,"Amazon Digital Services,  Inc.",2003,,,2.99
+965,Sing You Home, fiction,,Jodi Picoult,"Amazon Digital Services,  Inc.",2011,,,4.78
+966,The Tale of the Body Thief,fiction,,Anne Rice,HarperCollins Publishers,1992,,,1.99
+967,The Camel Club,nonfiction,,David Baldacci,"Amazon Digital Services,  Inc.",2005,,,1.29
+968,Saving The World and Other Extreme Sports, fiction,,James Patterson,Hachette Book Group,2006,,,6.93
+969,Blood of the Fold, fiction,,Terry Goodkind,"Amazon Digital Services,  Inc.",1996,,,0.99
+970,The Boleyn Inheritance, fiction,,Philippa Gregory,Hachette Book Group,2006,,,5.99
+971,A Spool of Blue Thread, fiction,,Anne Tyler,Penguin Group (USA) LLC,2015,,,10.99
+972,The Underground Railroad, fiction,,Colson Whitehead,"Amazon Digital Services,  Inc.",2016,,,4.99
+973,Masquerade, fiction,,Melissa de la Cruz,"Amazon Digital Services,  Inc.",2007,,,0.99
+974,The Iron Queen,nonfiction,,Julie Kagawa,"Amazon Digital Services,  Inc.",2011,,,3.99
+975,Losing It, fiction,,Cora Carmack,HarperCollins Publishers,2012,,,4.99
+976,The Racketeer, fiction,,John Grisham,"Amazon Digital Services,  Inc.",2012,,,2.99
+977,Disgrace,fiction,,J.M. Coetzee,Random House LLC,1999,,,9.99
+978,The House at Pooh Corner, fiction,,"A.A. Milne, Ernest H. Shepard","Amazon Digital Services,  Inc.",1928,,,1.99
+979,The Black Prism, fiction,,Brent Weeks,"Amazon Digital Services,  Inc.",2010,,,3.99
+980,The Mermaid Chair, fiction,,Sue Monk Kidd,"Amazon Digital Services,  Inc.",2004,,,2.99
+981,Frog and Toad Are Friends,nonfiction,,Arnold Lobel,HarperCollins Publishers,1970,,,2.99
+982,The Carnivorous Carnival, fiction,,"Lemony Snicket, Brett Helquist","Amazon Digital Services,  Inc.",2002,,,0.99
+983,Heist Society, fiction,,Ally Carter,Random House LLC,2010,,,7.99
+984,Behind Closed Doors,fiction,,B.A. Paris,Penguin Group (USA) LLC,2016,,,8.59
+985,The Killer Angels,nonfiction,,Michael Shaara,"Amazon Digital Services,  Inc.",1974,,,0.99
+986,"Circus of the Damned (Anita Blake, Vampire Hunter, #3)",fiction,,Laurell K. Hamilton,Penguin Group (USA) LLC,1995,,,3.99
+987,Ptolemy's Gate, fiction,,Jonathan Stroud,HarperCollins Publishers,2006,,,11.89
+988,The Island of Dr. Moreau, fiction,,H.G. Wells,"Amazon Digital Services,  Inc.",1896,,,5.99
+989,Opal, fiction,,Jennifer L. Armentrout,"Amazon Digital Services,  Inc.",2012,,,0.99
+990,Zeitoun, fiction,,Dave Eggers,"Amazon Digital Services,  Inc.",2008,,,3.82
+991,Out of My Mind,nonfiction,,Sharon M. Draper,"Amazon Digital Services,  Inc.",2010,,,2.99
+992,Rapture,nonfiction,,Lauren Kate,Random House LLC,2012,,,11.99
+993,Switched, fiction,,Amanda Hocking,Macmillan,2010,,,5.99
+994,Pines, fiction,,Blake Crouch,"Amazon Digital Services,  Inc.",2012,,,0.99
+995,Disclosure, fiction,,Michael Crichton,Random House LLC,1994,,,7.99
+996,Death Comes to Pemberley, fiction,,P.D. James,"Amazon Digital Services,  Inc.",2012,,,3.99
+997,Ethan Frome,nonfiction,,Edith Wharton,HarperCollins Publishers,1911,,,3.79
+998,A Map of the World, fiction,,"Jane Hamilton, Frank  Muller, C.J. Critt","Amazon Digital Services,  Inc.",1992,,,3.03
+999,It Ends with Us,fiction,,Colleen Hoover,Penguin Group (USA) LLC,2016,,,6.99
+1000,The Gift of the Magi,nonfiction,,"O. Henry, Lisbeth Zwerger",Simon and Schuster Digital Sales Inc,1905,,,8.89
+1001,The Electric Kool-Aid Acid Test, fiction,,Tom Wolfe,"Amazon Digital Services,  Inc.",1968,,,2.99
+1002,The Naked Lunch, fiction,,"William S. Burroughs, James Grauerholz, Barry  Miles","Amazon Digital Services,  Inc.",1959,,,4.95
+1003,The Sandman: Dream Country, fiction,,"Neil Gaiman, Kelley Jones, Charles Vess, Colleen Doran, Malcolm Jones III, Steve Erickson","Amazon Digital Services,  Inc.",1991,,,3.99
+1004,A Painted House,nonfiction,,John Grisham,"Amazon Digital Services,  Inc.",2001,,,0.99
+1005,The Left Hand of Darkness, fiction,,"Ursula K. Le Guin, Lech JÄ™czmyk",Random House LLC,1969,,,7.69
+1006,Let It Snow: Three Holiday Romances,fiction,,"John Green, Maureen Johnson, Lauren Myracle",Penguin Group (USA) LLC,2008,,,10.74
+1007,"Full Dark, No Stars", fiction,,Stephen King,Random House LLC,2010,,,5.99
+1008,Being Mortal: Medicine and What Matters in the End, fiction,,Atul Gawande,"Amazon Digital Services,  Inc.",2014,,,2.99
+1009,Intensity, fiction,,Dean Koontz,"Amazon Digital Services,  Inc.",1987,,,0.99
+1010,Et dukkehjem, fiction,,"Henrik Ibsen, Michael   Meyer",Hachette Book Group,1879,,,14.99
+1011,Hawaii, fiction,,James A. Michener,"Amazon Digital Services,  Inc.",1959,,,2
+1012,Revolutionary Road, fiction,,Richard Yates,Penguin Group (USA) LLC,1961,,,6.94
+1013,Nick & Norah's Infinite Playlist, fiction,,"Rachel Cohn, David Levithan",Random House LLC,2006,,,7.99
+1014,Rosencrantz and Guildenstern are Dead,nonfiction,,"Tom Stoppard, Henry Popkin",Random House LLC,1966,,,12.59
+1015,Forever, fiction,,Maggie Stiefvater,Penguin Group (USA) LLC,2011,,,7.81
+1016,The Beach,fiction,,Alex Garland,Hachette Book Group,1996,,,5.56
+1017,Saving CeeCee Honeycutt, fiction,,"Beth Hoffman, Jenna Lamia","Amazon Digital Services,  Inc.",2010,,,2.99
+1018,Deadlocked,nonfiction,,Charlaine Harris,"Amazon Digital Services,  Inc.",2012,,,9.99
+1019,Everything's Eventual: 14 Dark Tales,fiction,,Stephen King,"Amazon Digital Services,  Inc.",2002,,,2.99
+1020,Beezus and Ramona, fiction,,Beverly Cleary,Random House LLC,1955,,,6.99
+1021,The Farthest Shore,nonfiction,,Ursula K. Le Guin,"Amazon Digital Services,  Inc.",1972,,,1.99
+1022,Airframe, fiction,,Michael Crichton,"Amazon Digital Services,  Inc.",1996,,,0.99
+1023,Magician, fiction,,Raymond E. Feist,Random House LLC,1982,,,7.69
+1024,Bet Me, fiction,,Jennifer Crusie,Random House LLC,2004,,,7.99
+1025,Long Walk to Freedom: The Autobiography of Nelson Mandela, fiction,,Nelson Mandela,"Amazon Digital Services,  Inc.",1994,,,2.99
+1026,Gray Mountain,nonfiction,,John Grisham,"Amazon Digital Services,  Inc.",2014,,,0.99
+1027,The Power of One, fiction,,Bryce Courtenay,Random House LLC,1989,,,7.99
+1028,The Maltese Falcon, fiction,,Dashiell Hammett,Hachette Book Group,1930,,,7.99
+1029,Night Road, fiction,,Kristin Hannah,"Amazon Digital Services,  Inc.",2011,,,0.99
+1030,Tripwire, fiction,,Lee Child,"Amazon Digital Services,  Inc.",1999,,,2.99
+1031,Tripwire,,,,,,,,
+1032,,,,,,,,,
+1033,,,,,,,,,
+1034,,,,,,,,,
+1035,,,,,,,,,
+1036,,,,,,,,,
+1037,,,,,,,,,
+1038,,,,,,,,,
+1039,,,,,,,,,
+1040,,,,,,,,,
+1041,,,,,,,,,
+1042,,,,,,,,,
+1043,,,,,,,,,
+1044,,,,,,,,,
+1045,,,,,,,,,
+1046,,,,,,,,,
+1047,,,,,,,,,
+1048,,,,,,,,,
+1049,,,,,,,,,
+1050,,,,,,,,,
+1051,,,,,,,,,
+1052,,,,,,,,,
+1053,,,,,,,,,
+1054,,,,,,,,,
+1055,,,,,,,,,
+1056,,,,,,,,,
+1057,,,,,,,,,
+1058,,,,,,,,,
+1059,,,,,,,,,
+1060,,,,,,,,,
+1061,,,,,,,,,
+1062,,,,,,,,,
+1063,,,,,,,,,
+1064,,,,,,,,,
+1065,,,,,,,,,
+1066,,,,,,,,,
+1067,,,,,,,,,
+1068,,,,,,,,,
