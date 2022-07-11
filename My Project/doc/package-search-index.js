@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.jacob.datamanagement"},{"l":"com.jacob.menu"},{"l":"com.jacob.transactions"}];updateSearchResults();
